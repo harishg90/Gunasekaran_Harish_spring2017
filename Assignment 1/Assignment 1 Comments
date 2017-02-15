@@ -1,0 +1,8 @@
+->Q1- Did not print length of words and unique words. Try to avoid printing entire text
+->Q2- One more method of doing. Instead of hardcoding all 26 letters, create a unique dictionary and increment a count
+->Q3- Good use of count. 
+->Q7-Instead of hardcoding all 26 letters, create a unique dictionary and increment a count
+->Q8- Usernames to be removed,convert all text to same case
+Comments:
+Try to avoid typing all code in a single cell
+Please include title, comments so that code is understandable
