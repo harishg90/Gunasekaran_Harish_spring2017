@@ -3,6 +3,11 @@
 ->Q3- Good use of count. 
 ->Q7-Instead of hardcoding all 26 letters, create a unique dictionary and increment a count
 ->Q8- Usernames to be removed,convert all text to same case
+
+->Q4- Only first part of question is done (Counting User121 count)
+->Q5-Take shakespeare top 50,then webwords top 50. Now after saving these two in separate variables(lists), check which words in
+shakespeare not in webwords.Also the question asks to remove stopwords
+->Q6-Correct!!
 Comments:
 Try to avoid typing all code in a single cell
 Please include title, comments so that code is understandable
