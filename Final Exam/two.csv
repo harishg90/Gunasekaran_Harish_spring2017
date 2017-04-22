@@ -1,0 +1,2575 @@
+,AIRLINE_ID,CARRIER_NAME
+0,19031,Mackey International Inc.
+1,19032,Munz Northern Airlines Inc.
+2,19033,Cochise Airlines Inc.
+3,19034,Golden Gate Airlines Inc.
+4,19035,Aeromech Inc.
+5,19036,Golden West Airlines Co.
+6,19037,Puerto Rico Intl Airlines
+7,19038,Air America Inc.
+8,19039,Swift Aire Lines Inc.
+9,19040,American Central Airlines
+10,19041,Valdez Airlines
+11,19042,Southeast Alaska Airlines
+12,19043,Altair Airlines Inc.
+13,19044,Chitina Air Service
+14,19045,Marco Island Airways Inc.
+15,19046,Caribbean Air Services Inc.
+16,19047,Sundance Airlines
+17,19048,Seair Alaska Airlines Inc.
+18,19049,Southeast Airlines Inc.
+19,19050,Alaska Aeronautical Indust.
+20,19051,Imperial Airlines Inc.
+21,19052,Trans Western Airlines Utah
+22,19053,Wright Airlines Inc.
+23,19054,Presidential Express
+24,19055,Mississippi Valley Airlines
+25,19056,Channel Flying Inc.
+26,19057,Rocky Mountain Airways Inc.
+27,19058,Midstate Airlines Inc.
+28,19059,Sedalia Marshall Boonvl Stg
+29,19060,Inlet Airlines
+30,19061,Command Airways Inc.
+31,19062,Emerald Airlines
+32,19063,Orion Air Inc.
+33,19064,Pan Am Express
+34,19065,Air Micronesia Inc.
+35,19066,Sunbird Inc.
+36,19067,Wings West Airlines
+37,19068,Southcentral Air Inc.
+38,19069,Air Cargo Express Inc.
+39,19070,Associated Aviation Act.
+40,19071,Antilles Air Boats Inc.
+41,19072,AAA Airlines
+42,19073,Argosy Air Lines Inc.
+43,19074,Air Bahia
+44,19075,Airbama Incorporated
+45,19076,Aeronaves Boringuena Inc.
+46,19077,Alaska Central Airways Inc.
+47,19078,Island Airlines Hawaii Inc.
+48,19079,AAA-Action Air Carrier Inc.
+49,19080,Air Cargo Enterprises Inc.
+50,19081,Air Chaparral Inc.
+51,19082,Alamo Commuter Airlines
+52,19083,Air Central Inc.
+53,19084,Air Central Inc.
+54,19085,Astec Air East Inc.
+55,19086,American Flag Airlines Inc.
+56,19087,Air Cargo America Inc.
+57,19088,All Island Air
+58,19089,Air Express Inc.
+59,19090,Air Mont. Inc.
+60,19091,Air Indiana
+61,19092,Air-Lift Associates Inc.
+62,19093,Brandt Air
+63,19094,All Seasons Air Pacific
+64,19095,North American Airlines Inc.
+65,19096,American Inter-Island Inc.
+66,19097,Air Nebraska Inc.
+67,19098,Airways Of New Mexico Inc.
+68,19099,Metro Air Northeast Vermont
+69,19100,Air North/Nenana
+70,19101,Trans New York
+71,19102,Arizona Pacific Inc.
+72,19103,Appalachian Flying Service
+73,19104,Air Polynesia Inc.
+74,19105,Arizona Aero Corp.
+75,19106,Arnold Aviation
+76,19107,Air Oregon
+77,19108,Arrowhead Airways Inc.
+78,19109,Amistad Airlines
+79,19110,Alpine Air Services Inc.
+80,19111,Asap Air Inc.
+81,19112,Astro Airways
+82,19113,Air Atlantic Airlines Inc.
+83,19114,Pacific National Airways
+84,19115,Atlantis Airlines Inc.
+85,19116,Aerotransit Inc.
+86,19117,Air Carolina
+87,19118,Air Vectors Airways
+88,19119,Aero Virgin Islands Corp.
+89,19120,Aviation Services
+90,19121,Southern Jersey Airways
+91,19122,Business Aircraft Corp.
+92,19123,Brennan & Hargreaves Inc.
+93,19124,Bankair Inc.
+94,19125,Bard-Air Corp.
+95,19126,Baja Cortez Airlines
+96,19127,Bennington Aviation Inc.
+97,19128,Beyer Aviation
+98,19129,Blackhawk Airways Inc.
+99,19130,Bighorn Airways Inc.
+100,19131,Birchwood Air Service
+101,19132,Bremerton Aviation Inc.
+102,19133,Boise Air Service
+103,19134,Brower Airways Inc.
+104,19135,Burlington Airways Inc.
+105,19136,Coleman Air Transport
+106,19137,Crawford Aviation Inc.
+107,19138,C & M Airlines
+108,19139,Metro Air Northeast N Y
+109,19140,Catalina Airlines Inc.
+110,19141,Air Virginia
+111,19142,Carriba Air Inc.
+112,19143,Cen-Tex Airlines Inc.
+113,19144,Century Airlines (Cal)
+114,19145,Chandler Flyer
+115,19146,Charter Airlines
+116,19147,Hammonds Commuter Air Serv.
+117,19148,Choi Aviation Inc.
+118,19149,Christman Air System
+119,19150,Cal Sierra Airlines
+120,19151,Centennial Airlines
+121,19152,Cotton Belt Aviation Inc.
+122,19153,Coker Aviation Inc.
+123,19154,Commutair
+124,19155,Coral Air Inc.
+125,19156,Cosmopolitan Comm. Airline
+126,19157,Southeastern Commuter
+127,19158,Courtesy Air Service Inc.
+128,19159,Capitol Air Lines
+129,19160,Coastal Plains Commuter Inc.
+130,19161,Commuter Airlines
+131,19162,Crown Aviaiton Inc.
+132,19163,Crown Airways Inc.
+133,19164,Crested Butte Air Service
+134,19165,Catskill Airways Inc.
+135,19166,Century Airlines
+136,19167,Cothron Aviation
+137,19168,Catalina-Vegas Airlines
+138,19169,Danbury Airlines
+139,19170,Downeast Airlines Inc.
+140,19171,Decatur Aviation
+141,19172,DHL Airlines Inc.
+142,19173,Dickman Aviation Services
+143,19174,Desert Pacific Airways
+144,19175,Desert Pacific Airlines Inc.
+145,19176,Desert Airlines
+146,19177,Executive Aviation Inc.
+147,19178,Eastern Caribbean Airways
+148,19179,Eastern Carolina Aviation
+149,19180,Ede Aire
+150,19181,Executive Four Winds
+151,19182,Eagle Commuter Airlines Inc.
+152,19183,East Hampton Aire Inc.
+153,19184,East. Indiana Aviation Sale
+154,19185,Air Pacific Inc.
+155,19186,Erie Airways Inc.
+156,19187,Empire Aero Service
+157,19188,Evanston Aviation
+158,19189,Federal Armored Service Inc.
+159,19190,Young Flying Service
+160,19191,Southern Airlines Inc.
+161,19192,Florida Airlines Inc.
+162,19193,Freedom Airlines Inc.
+163,19194,Flamenco Airways Inc.
+164,19195,Ford-Aire Inc.
+165,19196,Foster Aviation
+166,19197,Skycraft Inc.
+167,19198,Far West Airlines
+168,19199,General Aviation Inc.
+169,19200,Gromer Aviation Inc.
+170,19201,Central States Airline
+171,19202,Golden Carriage Aire
+172,19203,Midway Commuter
+173,19204,Green Hills Aviation Ltd.
+174,19205,Green Mountain Airlines Ltd.
+175,19206,Copper State Airlines
+176,19207,Isle Royale Seaplane Serv.
+177,19208,Golden South Airlines Inc.
+178,19209,Gull Air Inc.
+179,19210,Gunnel Aviation Inc.
+180,19211,Ross Aviation Inc.
+181,19212,Heussler Air Service Corp
+182,19213,Hensley Flying Service Inc.
+183,19214,Long Island Airlines
+184,19215,Holiday Airlines Inc.
+185,19216,Iowa Airlines
+186,19217,Pacific Coast Airlines
+187,19218,Trans-National Airlines Haw
+188,19219,Scenic Airlines Inc.
+189,19220,Skystream Airlines
+190,19221,Hawking Corporation
+191,19222,Hyannis Aviation
+192,19223,Iowa City Flying Service
+193,19224,Idee Industries Inc.
+194,19225,Inland Empire Airlines Inc.
+195,19226,Indiana Airways Inc. (Pa)
+196,19227,Indo-Pacific International
+197,19228,Island Airlines
+198,19229,Sunbelt Airlines Inc.
+199,19230,Air Chico
+200,19231,Jer-Don Air
+201,19232,Knight Airlines Inc.
+202,19233,Key Airlines
+203,19234,Crown Air
+204,19235,Chaparral Airlines Inc.
+205,19236,Lancer Aviation Inc.
+206,19237,Lawrence Aviation
+207,19238,Havasu Airlines
+208,19239,Lakeland Aviation
+209,19240,Aero Commuter
+210,19241,Las Vegas Airlines
+211,19242,Magum Airlines
+212,19243,The Maui Commuter
+213,19244,Marshall's Air Inc.
+214,19245,Maxair Inc.
+215,19246,Mid Continental Airlines In
+216,19247,Metro Airlines
+217,19248,Metroplex Airlines
+218,19249,Midway Aviation Inc.
+219,19250,Miller Air Transportersinc
+220,19251,Ocean Airways Inc.
+221,19252,Cumberland Airlines
+222,19253,Merrimack Aviation Inc.
+223,19254,Midwest Aviation
+224,19255,Arkansas Traveler Airline
+225,19256,Metroflight Airlines
+226,19257,National Air Commuter Inc.
+227,19258,New Born Wings Inc.
+228,19259,Nor East Commuter Airlines
+229,19260,Nevada Airlines
+230,19261,Northern Eagle Airways Inc.
+231,19262,Newair Flight Inc.
+232,19263,N. J. Merrimack Airlines
+233,19264,E. J. A. Newport Inc.
+234,19265,Northaire
+235,19266,Lake State Airways
+236,19267,New York Helicopter Corp.
+237,19268,Harbor Airlines Inc.
+238,19269,Ocean Reef Airways Inc.
+239,19270,Offshore Logistics
+240,19271,Omaha Aviation
+241,19272,Corporate Air Inc.
+242,19273,Omak Aviation Airlines
+243,19274,Omni Pacific Airline
+244,19275,Sun Aire Lines
+245,19276,Air Kentucky Air Lines
+246,19277,Permian Airways Inc.
+247,19278,Provincetown Boston
+248,19279,Piasa Commuter Airlines
+249,19280,Trans Southern Airways
+250,19281,Pearson Aircraft
+251,19282,Air Pennsylvania
+252,19283,Petro Aviation Corp.
+253,19284,Phillips Airlines
+254,19285,Phoenix Airlines
+255,19286,Pacific Island Airways
+256,19287,Planes Inc.
+257,19288,Polar Airways Inc.
+258,19289,Pacific Missionary Aviation
+259,19290,Pioneer Airways
+260,19291,Pocono Airlines Inc.
+261,19292,Pompano Airways
+262,19293,Ponderosa Aviation Inc.
+263,19294,Princeton Aviation Corp
+264,19295,Pro Air Services
+265,19296,Precision Valley Aviation
+266,19297,Bar Harbor Airways
+267,19298,Royal-Air Ltd.
+268,19299,Realwest Airlines
+269,19300,Aerosun International Airlines Inc.
+270,19301,Royal Hawaiian Airways Inc.
+271,19302,Richardson Aviation
+272,19303,Indiana Airways Inc. (Reid
+273,19304,Rio Airways Inc.
+274,19305,Riverside Air Service
+275,19306,Michigan Airways Inc.
+276,19307,Roederer Aviation Inc.
+277,19308,Royal American Airways Inc.
+278,19309,Air Rovers Inc.
+279,19310,Sajen Air Inc.
+280,19311,Samoan Airlines Inc.
+281,19312,Air Cortez International
+282,19313,Air Americana
+283,19314,Saber Aviation Inc.
+284,19315,Suburban Airlines
+285,19316,Seaco Airlines Inc.
+286,19317,Skyline Airlines
+287,19318,South Coast Airways
+288,19319,Semo Aviation Inc.
+289,19320,Stahmannfarms Inc.
+290,19321,Sfo Helicopter Airlines Inc.
+291,19322,Sierra Flite Service Inc.
+292,19323,Shasta Air Inc.
+293,19324,Shavano Air Inc.
+294,19325,Silver State Airlines
+295,19326,San Juan Airlines Inc.
+296,19327,Bas Airlines
+297,19328,Scheduled Skyways
+298,19329,Stopher Mechanical Inc.
+299,19330,Gelco Courier Services Inc.
+300,19331,Shawnee Airlines
+301,19332,Mall Airways Inc.
+302,19333,Soonair Lines Inc.
+303,19334,Springfield Air Service
+304,19335,Sterling Air Service
+305,19336,Southern Seaplane
+306,19337,Sierra Express Inc.
+307,19338,Seaplane Shuttle Transport
+308,19339,Trans East International
+309,19340,Star Aviation Corporation
+310,19341,Sun International Airways
+311,19342,Sunbelt
+312,19343,Sun Valley Airlines
+313,19344,Sunwest Airlines
+314,19345,Air Colorado
+315,19346,Tejas Airlines Inc.
+316,19347,Yosemite Airlines Inc.
+317,19348,Trans Catalina Airlines
+318,19349,Oceanair Line
+319,19350,Trans California Airlines
+320,19351,Trans-Central Airlines Inc.
+321,19352,Trans-Colorado Airlines
+322,19353,Tennessee Airways Inc.
+323,19354,Terre Haute Air Commuter
+324,19355,Thorson Aviation
+325,19356,Trans Air Inc.
+326,19357,Skyfreight
+327,19358,Trans Mo Airlines
+328,19359,Transtate Aviation
+329,19360,Trans Pennsylvania Airlines
+330,19361,Trans Sierra Airlines Inc.
+331,19362,Tulsair Beechcraft Inc.
+332,19363,Temsco Airlines
+333,19364,Universal Airways Inc.
+334,19365,Air U.S.
+335,19366,Vagabond Aviation Inc.
+336,19367,Britt Airlines Inc.
+337,19368,Viking Express
+338,19369,Vale International Airlines
+339,19370,Valley Airlines
+340,19371,Air East Airlines
+341,19372,Walker's International
+342,19373,Mountainwest Airlines
+343,19374,Western Star Airlines Inc.
+344,19375,Western Charter Inc.
+345,19376,Wheeler Airlines
+346,19377,Wisc Air
+347,19378,Will's Air
+348,19379,Wings Airways
+349,19380,Mcphillips Flying Service
+350,19381,Air New Mexico
+351,19382,Winnipesaukee Aviation Inc.
+352,19383,Skyway Aviation Inc.
+353,19384,P.S. Air Freight Inc.
+354,19385,Reeve Aleutian Airways Inc.
+355,19386,Northwest Airlines Inc.
+356,19386,Northwest Airlines Inc.
+357,19386,Northwest Airlines Inc.
+358,19386,Northwest Airlines Inc.
+359,19387,Wien Air Alaska Inc.
+360,19388,Southern Airways
+361,19389,Air Florida Inc.
+362,19389,Air Florida Inc.
+363,19389,Air Florida Inc.
+364,19390,Air California Inc.
+365,19391,Pacific Southwest Airlines
+366,19392,Rich International Airways
+367,19392,Rich International Airways
+368,19392,Rich International Airways
+369,19393,Southwest Airlines Co.
+370,19393,Southwest Airlines Co.
+371,19394,Mid-South Aviation Inc.
+372,19395,Mid-South Aviation Inc.
+373,19396,Sky West Aviation Inc.
+374,19397,Republic Airlines Inc.
+375,19398,Dauphin Island Airways
+376,19399,New York Air Inc.
+377,19400,Global International Airways Corp.
+378,19400,Global International Airways Corp.
+379,19400,Global International Airways Corp.
+380,19401,Colgan Airways Inc.
+381,19402,Overseas National Airways
+382,19402,Overseas National Airways
+383,19403,Flight International
+384,19403,Flight International
+385,19403,Flight International
+386,19404,Academy Airlines
+387,19405,Check-Air Inc.
+388,19406,Transwest Air Express
+389,19407,Airgo Inc.
+390,19408,American Air Transport
+391,19409,Bo-S-Aire Airlines Inc.
+392,19410,Combs Airways Inc.
+393,19411,Summit Airlines Inc.
+394,19412,Eagle Aviation Inc.
+395,19413,Falwell Aviation Inc.
+396,19414,Falcon Airways Inc.
+397,19415,Pinehurst Airlines Inc.
+398,19416,Great Western Airlines Inc.
+399,19417,Air Freight Express
+400,19418,S. S. Airways Inc.
+401,19419,Aero Union Corp
+402,19420,Air Express International Airlines
+403,19421,Central American International
+404,19422,Michigan Peninsula Airways
+405,19423,WTC Airlines
+406,19424,Profit Airlines Inc.
+407,19425,CF Air Freight
+408,19426,International Air Service
+409,19427,Aeronaves De Puerto Rico
+410,19428,Allstates Air Cargo Inc.
+411,19429,Cam Air International Inc.
+412,19430,Purolator Sky Courier Inc.
+413,19431,Circle Airfreight Corp.
+414,19432,Pacific Alaska Airlines Inc.
+415,19433,Icb International Airlines
+416,19434,Cohlmia Aviation
+417,19435,Amerford Airways Inc.
+418,19436,Astro-Wing Airlines Inc.
+419,19437,Ball Brothers Inc.
+420,19438,Burlington Northern Inc.
+421,19439,Century Airlines Inc.
+422,19440,Dallas Flight Center
+423,19441,Jet Way Inc.
+424,19442,Klondike Air Inc.
+425,19443,Pat Air
+426,19444,Phh Air Inc.
+427,19445,Flight Line Inc.
+428,19446,Viking International Airlines Inc.
+429,19447,Capitol International Inc.
+430,19447,Capitol International Inc.
+431,19447,Capitol International Inc.
+432,19448,Air Caravane Inc.
+433,19449,Argo S. A.
+434,19450,Norontair
+435,19451,Alberta Northern Airlines
+436,19452,Aviacion Y Comercio S.A.
+437,19453,Air Bvi Limited
+438,19454,Spantax S. A.
+439,19455,Dan Air Services
+440,19456,Maersk Air I/S
+441,19457,Aerolineas Dominicanas S A
+442,19458,Caribwest Airways Ltd.
+443,19459,Execaire Aviation Ltd.
+444,19460,Aero Trades (Western) Ltd.
+445,19461,Fast Air Carrier Ltd.
+446,19462,Business Flights Ltd.
+447,19463,Tar Airlines
+448,19464,Transavia Holland B. V.
+449,19465,Iscargo Hf
+450,19466,Tradewinds Airways Ltd.
+451,19467,Aerlinte Eireann Teoranta
+452,19468,Iran National Airlines Corp
+453,19469,Inair
+454,19470,Allarco Developments Ltd.
+455,19471,Transmeridian Air Cargo Ltd.
+456,19472,Kelowna Flightcraft Air Cha
+457,19473,Liat (1974) Limited
+458,19474,Millardair Limited
+459,19475,Montana Austria Flugetrieb
+460,19476,P.N. Merpati Nusantara Air.
+461,19477,North Cariboo Flying Serv.
+462,19478,Norcanair
+463,19479,Northward Airlines Ltd.
+464,19480,North Coast Air Services
+465,19481,National Aviation Consult.
+466,19482,Air Niugini
+467,19483,Nunasi-Central Airlines Ltd.
+468,19484,Ontario Worldair Limited
+469,19485,Pem-Air Limited
+470,19486,Eastern Provincial Airways
+471,19487,Pacific Western Airlines
+472,19488,Inter-Quebec (Intair)
+473,19489,Syrian Arab Airlines
+474,19490,Aerotransportes Entre Rios
+475,19491,Redcoat Air Cargo Limited
+476,19492,Skycharter (Malton) Ltd.
+477,19493,Superior Airways Limited
+478,19494,Belize Airways Limited
+479,19495,Skycraft Air Transport Inc.
+480,19496,Trans-Mediterranean Airways
+481,19497,British Caribbean Airways
+482,19498,Air Manila Inc.
+483,19499,Avalon Aviation Ltd.
+484,19500,Wardair Canada Inc.
+485,19501,Gateway Aviation Limited
+486,19502,Windward Islands Airways
+487,19503,Nal Inc.
+488,19504,Yellow Bird Air
+489,19505,Air Europe Limited
+490,19506,Intair
+491,19507,Yugoslav Airlines
+492,19508,Union De Transports Aeriens
+493,19509,Air Haiti S. A.
+494,19510,Servicio Aereo De Honduras
+495,19511,Sterling Airways A/S
+496,19512,Aerolineas El Salvador S A
+497,19513,Transp. Aereos Bolivianos
+498,19514,Aeronaves Del Peru
+499,19515,Compania Dominicana De Avia
+500,19516,Nigeria Airways Ltd.
+501,19517,Lineas Aereas Paraguayas
+502,19518,Lufthansa Cargo Airlines
+503,19519,Venezuelan International Airways
+504,19520,Andes
+505,19521,Compan. De Aviacion Faucett
+506,19522,Aviateca
+507,19523,Canadian Airlines International Ltd.
+508,19524,Guyana Airways Corporation
+509,19525,Seagreen Air Transport
+510,19526,Air Nauru
+511,19527,Aero Peru
+512,19528,Balair Ag
+513,19529,Sabena Belgian World Air.
+514,19530,Air Afrique
+515,19531,Air Canada
+516,19532,Compagnie Natl Air France
+517,19533,National Aviation Company of India Limited d/b/a Air India
+518,19533,Air-India
+519,19534,Aeromexico
+520,19535,Aerolineas Argentinas
+521,19536,Royal Air Maroc
+522,19537,Aerovias Nacl De Colombia
+523,19538,Finnair Oy
+524,19539,Compagnia Aerea Italiana
+525,19539,Alitalia-Linee Aeree Italia
+526,19540,British Airways Plc
+527,19541,British Midland Airways Ltd.
+528,19542,British West Indian Airways
+529,19542,Caribbean Airlines Limited
+530,19543,Air China
+531,19544,China Airlines Ltd.
+532,19545,Cargolux Airlines International S.A
+533,19546,Icelandair
+534,19547,Iberia Air Lines Of Spain
+535,19548,Japan Air Lines Co. Ltd.
+536,19549,Air Jamaica Limited
+537,19550,Korean Air Lines Co. Ltd.
+538,19551,Klm Royal Dutch Airlines
+539,19552,Lan-Chile Airlines
+540,19553,Lloyd Aereo Boliviano S. A.
+541,19554,Lufthansa German Airlines
+542,19555,Polskie Linie Lotnicze
+543,19556,Lacsa
+544,19557,Luftransport-Unternehmen
+545,19558,El Al Israel Airlines Ltd.
+546,19559,Compania Mexicana De Aviaci
+547,19560,N. W. Territorial Airways
+548,19561,Olympic Airways
+549,19562,Polynesian Airlines Ltd.
+550,19563,Pakistan International Airlines
+551,19564,Philippine Airlines Inc.
+552,19565,Surinam Airways Limited
+553,19566,Qantas Airways Ltd.
+554,19567,Varig S. A.
+555,19568,Alia-(The) Royal Jordanian
+556,19569,Tarom Romanian Air Transpor
+557,19570,South African Airways
+558,19571,Scandinavian Airlines Sys.
+559,19572,Singapore Airlines Ltd.
+560,19573,Aeroflot Russian Airlines
+561,19573,Aeroflot Russian Airlines
+562,19574,Taca International Airlines
+563,19575,Thai Airways International Ltd.
+564,19576,Tap-Portuguese Airlines
+565,19577,Bahamasair Holding Limited
+566,19578,Transtar Airlines Corp.
+567,19579,Heavylift Cargo Airlines Lt
+568,19580,Ladeco
+569,19581,Altus Airlines
+570,19582,Atlantic Air
+571,19583,Aero International Airlines
+572,19584,Northern Star
+573,19585,Skytrain
+574,19586,Trans Air Cargo Inc.
+575,19587,T-Bird Air Inc.
+576,19587,T-Bird Air Inc.
+577,19587,T-Bird Air Inc.
+578,19588,Royal West Airways Inc.
+579,19589,Air East Of Delaware Inc.
+580,19590,Atlanta Express
+581,19591,Air New Orleans
+582,19592,Air Vermont Inc.
+583,19593,Dolphin Airways Inc.
+584,19594,Devoe Airlines
+585,19595,Golden Pacific Airlines
+586,19596,National Florida Airlines
+587,19597,Slocum Air Inc.
+588,19598,State Airlines Inc.
+589,19599,Air Molakai
+590,19600,Williams Air Inc.
+591,19601,Mission Air
+592,19602,Guy-America Airways Inc.
+593,19602,Guy-America Airways Inc.
+594,19603,Pacific Express
+595,19604,Northeastern International Airways
+596,19605,Friendship Air Alaska
+597,19606,Minuteman Aviation Inc.
+598,19607,Virgin Islands Seaplane
+599,19608,Flying Tiger Line Inc.
+600,19608,Flying Tiger Line Inc.
+601,19608,Flying Tiger Line Inc.
+602,19608,Flying Tiger Line Inc.
+603,19609,Aerocondor
+604,19610,Emerald Airlines Inc.
+605,19611,Northern Airlines Inc.
+606,19612,Pacific East Air Inc.
+607,19613,Jet Charter Service Inc.
+608,19613,Jet Charter Service Inc.
+609,19613,Jet Charter Service Inc.
+610,19614,Aeroservicios Ecuatorianos
+611,19615,Arista International Airlines Inc.
+612,19615,Arista International Airlines Inc.
+613,19615,Arista International Airlines Inc.
+614,19616,Kuwait Airways Corp.
+615,19617,Burlington Aeroplane Co.
+616,19618,Desert Sun Airlines
+617,19619,Lake Union Air Service
+618,19620,Aer Turas Teoranta
+619,19621,Aero B Venezuela C.A.
+620,19622,Air Ontario Limited
+621,19623,Aer Lingus Plc
+622,19624,Saudi Arabian Airlines Corp
+623,19625,Air Polynesia d/b/a DHL Cargo
+624,19626,Air Natl Aircraft Sal & Ser
+625,19627,A/S Conair
+626,19628,Dash Air Corporation
+627,19629,Air Resorts Airlines
+628,19630,Manu'a Air Transport
+629,19631,Pacific Cal Air
+630,19632,Service Aviation Inc.
+631,19633,The Time Machine
+632,19634,Servicio De Carga Aerea Sa
+633,19635,Hapag Lloyd Flug.
+634,19636,Air One Inc.
+635,19637,Middle East Airlines S.A.L.
+636,19638,Arcata Flying Service
+637,19639,Grand Canyon Airlines
+638,19640,Kodiak Airways Inc.
+639,19641,Mid-Atlantic Exp. Airlines
+640,19642,National Commuter Airlines
+641,19643,Sundorph Aeronautical Corp.
+642,19644,Waring Air
+643,19645,All Star Airlines Inc.
+644,19645,All Star Airlines Inc.
+645,19645,All Star Airlines Inc.
+646,19646,Aeron International Airlines Inc.
+647,19647,Jet Fleet Intl. Airlines
+648,19647,Jet Fleet Intl. Airlines
+649,19647,Jet Fleet Intl. Airlines
+650,19648,Markair Express
+651,19649,Alaska Island Air Inc.
+652,19650,Air Sunshine Inc.
+653,19650,Air Sunshine Inc.
+654,19651,Eastman Airways Inc.
+655,19652,Spirit Helicopter
+656,19653,Air National
+657,19653,Air National
+658,19654,Executive Charter
+659,19655,Aviation Associates
+660,19656,Airmarc Airlines Inc.
+661,19657,Panorama Air Tours
+662,19658,Trans-Air-Link Corporation
+663,19658,Trans-Air-Link Corporation
+664,19658,Trans-Air-Link Corporation
+665,19659,Audi Air Inc.
+666,19660,Galaxy Airlines Inc.
+667,19660,Galaxy Airlines Inc.
+668,19660,Galaxy Airlines Inc.
+669,19661,Intl Air Service Co. Ltd.
+670,19662,Transbrasil S.A.
+671,19663,Hawkins And Powers Aviation
+672,19664,Jet East Inc.
+673,19665,Air Sedona
+674,19666,Caribbean Express Inc.
+675,19667,Tri-State Airlines Inc.
+676,19668,Frontier Horizon Inc.
+677,19669,Aermediterranea S.P.A.
+678,19670,Markair Inc.
+679,19670,Alaska International Air
+680,19671,Air Tungaru Corporation
+681,19672,Resort Airlines Inc.
+682,19673,Alpine Air
+683,19674,Americair Inc.
+684,19675,Airspur Helicopters Inc.
+685,19676,Silver Kris Services Ltd.
+686,19677,Buffalo Airways Inc.
+687,19677,Buffalo Airways Inc.
+688,19677,Buffalo Airways Inc.
+689,19678,Aloha Airlines Inc.
+690,19678,Aloha Airlines Inc.
+691,19679,Air Spirit Inc.
+692,19680,Metro Express
+693,19681,Frontier Commuter
+694,19682,Virgin Atlantic Airways
+695,19683,Airmark Corporation
+696,19683,Airmark Corporation
+697,19683,Airmark Corporation
+698,19684,Independent Air Inc.
+699,19684,Independent Air Inc.
+700,19684,Independent Air Inc.
+701,19685,Aerial Transit Company
+702,19685,Aerial Transit Company
+703,19685,Aerial Transit Company
+704,19686,Westflight Aviation
+705,19687,Horizon Air
+706,19687,Horizon Air
+707,19687,Horizon Air
+708,19688,Midway Express Airlines
+709,19689,St. Lucia Airways Limited
+710,19690,Hawaiian Airlines Inc.
+711,19690,Hawaiian Airlines Inc.
+712,19690,Hawaiian Airlines Inc.
+713,19690,Hawaiian Airlines Inc.
+714,19691,Pacific Air Express Inc.
+715,19692,Trump Air
+716,19693,North Pacific Airlines Inc.
+717,19694,Flirite Inc.
+718,19695,Talarik Creek Air Taxi
+719,19696,Royale Airlines Inc.
+720,19696,Royale Airlines Inc.
+721,19696,Royale Airlines Inc.
+722,19697,Worldways Canada Ltd.
+723,19698,Air Charter (Safa)
+724,19699,Samoa Airlines Inc.
+725,19700,Alpha Air
+726,19701,Jetaire Airlines Inc.
+727,19702,Haiti Air
+728,19703,Harbor Air Service
+729,19704,Continental Air Lines Inc.
+730,19704,Continental Air Lines Inc.
+731,19704,Continental Air Lines Inc.
+732,19704,Continental Air Lines Inc.
+733,19705,Interstate Airlines Inc.
+734,19705,Interstate Airlines Inc.
+735,19705,Interstate Airlines Inc.
+736,19705,Interstate Airlines Inc.
+737,19706,Hawaii Pacific Helicopters
+738,19707,Eastern Air Lines Inc.
+739,19707,Eastern Air Lines Inc.
+740,19707,Eastern Air Lines Inc.
+741,19708,Chisum Flying Service
+742,19709,AvAir
+743,19710,Armstrong Air Service Inc.
+744,19711,Eagle Airline
+745,19712,Business Express Airlines
+746,19713,Alliance Airlines
+747,19714,Astor Air
+748,19715,West Penn Commuter
+749,19716,Barken International
+750,19717,Commuter Airlines (Ca)
+751,19718,Cresent Medivac
+752,19719,Coastal Air Transport
+753,19720,Exec Express
+754,19721,La Skycab Airline
+755,19722,National Air
+756,19723,Omniflight Airways
+757,19724,Southern Express Airways
+758,19725,Turner Aire
+759,19726,AAR Western Skyways
+760,19727,Skybus Inc.
+761,19728,Caicos Caribbean Airways
+762,19729,Jet Express
+763,19730,Regent Air Corporation
+764,19731,Westates Airlines
+765,19732,Action Airlines
+766,19733,California Seaboard
+767,19734,Enterprise Airlines Inc.
+768,19735,Island Air Express
+769,19736,Maui Airlines
+770,19737,Metro Express 11
+771,19738,Otter Air
+772,19739,Prime Air Inc.
+773,19740,Sallee's Aviation
+774,19741,Wrangell Air Service
+775,19742,Atlantic Gulf Airlines
+776,19742,Atlantic Gulf Airlines
+777,19742,Atlantic Gulf Airlines
+778,19743,Skyworld Airlines Inc.
+779,19743,Skyworld Airlines Inc.
+780,19744,Presidential Airways Inc.
+781,19745,Caribbean Air Cargo Co Ltd.
+782,19746,P.T. Garuda Indonesian Arwy
+783,19747,Egyptair
+784,19748,Bay Air
+785,19749,Five Star Airlines
+786,19749,Five Star Airlines
+787,19749,Five Star Airlines
+788,19750,King Flying Service
+789,19751,Le Point Air
+790,19752,Barrow Air
+791,19753,Big Island Air
+792,19754,Cityhop
+793,19755,GP Express Airlines
+794,19756,Iowa Airways
+795,19757,Mountain West Airlines
+796,19758,Resort Commuter
+797,19759,Texas National Airlines
+798,19760,Air Hawaii
+799,19760,Air Hawaii
+800,19760,Air Hawaii
+801,19761,Aerotal
+802,19762,Air L.A.
+803,19763,Aero Coach
+804,19764,Air Link Airways
+805,19765,Million Air
+806,19766,Helitrans
+807,19767,La Helicopter
+808,19768,Omniflight Helicopters
+809,19769,Reeves Air
+810,19770,Compania Panamena (Copa)
+811,19771,Zas Airline Of Egypt
+812,19772,Polar International
+813,19773,Hemisphere Air Charter
+814,19774,Airways International
+815,19775,Chicago Airlines
+816,19776,Royal West Airlines
+817,19777,Airpac Inc.
+818,19777,Airpac Inc.
+819,19777,Airpac Inc.
+820,19778,Aerovias Venezolanas-Avensa
+821,19779,Cathay Pacific Airways Ltd.
+822,19780,Galena Air Service
+823,19781,Stateswest Airlines
+824,19782,Executive Transport
+825,19783,Propheter Aviation
+826,19784,Wise Airlines Inc.
+827,19786,Haines Airways
+828,19787,Great American Airways
+829,19787,Great American Airways
+830,19787,Great American Airways
+831,19787,Great American Airways
+832,19788,Air Puerto Rico Airlines
+833,19788,Air Puerto Rico Airlines
+834,19788,Air Puerto Rico Airlines
+835,19788,Air Puerto Rico Airlines
+836,19789,Viacao Aerea Sao Paulo
+837,19790,Delta Air Lines Inc.
+838,19790,Delta Air Lines Inc.
+839,19790,Delta Air Lines Inc.
+840,19790,Delta Air Lines Inc.
+841,19791,All Nippon Airways Co.
+842,19792,International Parcel Express Inc.
+843,19793,Anglo Airlines Ltd.
+844,19794,Midcontinent Airlines
+845,19795,Malaysian Airline System
+846,19796,Pilgrim Aviation & Airlines
+847,19796,Pilgrim Aviation & Airlines
+848,19796,Pilgrim Aviation & Airlines
+849,19797,Florida Express Inc.
+850,19797,Florida Express Inc.
+851,19798,Orion Air
+852,19798,Orion Air
+853,19798,Orion Air
+854,19799,Nationair
+855,19800,Air Cape
+856,19801,Lake Coastal
+857,19802,Mst Aviation
+858,19803,First Air
+859,19804,Transportes Aereos De Cabo
+860,19805,American Airlines Inc.
+861,19805,American Airlines Inc.
+862,19805,American Airlines Inc.
+863,19805,American Airlines Inc.
+864,19806,Air Charter Systems (Acs)
+865,19807,Helitac Aviation
+866,19808,Belize Air International Ltd.
+867,19809,Highland Express Airways
+868,19810,Mid Pacific Airlines Inc.
+869,19810,Mid Pacific Airlines Inc.
+870,19810,Mid Pacific Airlines Inc.
+871,19811,Aero Tranportes Panamenos
+872,19812,Millon Air Inc.
+873,19812,Millon Air Inc.
+874,19812,Millon Air Inc.
+875,19813,Air Caribe International
+876,19814,Air South
+877,19815,Air South
+878,19816,Bangor International Air
+879,19817,Chester County Aviation
+880,19818,East Coast Airways
+881,19819,Hub Express
+882,19820,Tropical Helicopter Airways
+883,19821,Turk Hava Yollari A.O.
+884,19822,Piedmont Aviation Inc.
+885,19822,Piedmont Aviation Inc.
+886,19822,Piedmont Aviation Inc.
+887,19823,Air Train Inc.
+888,19824,Haiti Air Freight Intl
+889,19825,Ketchikan Air Service
+890,19826,Salair Inc.
+891,19827,Npa Inc.
+892,19828,Air America
+893,19828,Air America
+894,19828,Air America
+895,19828,Air America
+896,19828,Air America
+897,19828,Air America
+898,19829,Time Air Ltd.
+899,19830,Nippon Cargo Airlines
+900,19831,Seagull Air Service
+901,19832,Nasville Eagle
+902,19833,Aleutian Air
+903,19834,Custom Air Service
+904,19835,GCS Air Service
+905,19836,Golden State Airlines
+906,19837,Springdale Air
+907,19838,Sportsman Flying Service
+908,19839,Saeta Airlines
+909,19840,Aerolineas Mundo
+910,19841,Tropical Airways Inc.
+911,19841,Tropical Airways Inc.
+912,19842,Grenada Airways Ltd.
+913,19843,Mid Pacific Air Corp.
+914,19844,Exec Express II
+915,19845,Taquan Air Service
+916,19846,Chartair
+917,19847,Laredo Air
+918,19848,Qwest Commuter
+919,19849,Tri Air Freight
+920,19850,Wra Inc.
+921,19851,Zambia Airways Corp.
+922,19852,Swissair Transport Co. Ltd.
+923,19853,Airlift International
+924,19854,Pacair
+925,19855,Bradley Air Services Ltd.
+926,19856,Corse Air International
+927,19857,Iraqi Airways
+928,19858,Monarch Airlines
+929,19859,Vacationair
+930,19860,Lineas Aereas La-Tur Sa
+931,19861,Holidair Airways
+932,19862,Aerovias S.A.
+933,19863,Alas De Transporte International
+934,19864,Transamerica Airlines Inc.
+935,19865,Haiti Trans Air
+936,19866,Canadian Aviation Express
+937,19867,Japan Air System Co. Ltd.
+938,19868,Manhattan Express
+939,19869,Britannia Airways Ltd.
+940,19870,Aero Freight
+941,19871,Panama Aviation
+942,19872,Welch Aviation
+943,19873,Austrian Airlines
+944,19874,Air Transport International
+945,19874,Air Transport International
+946,19874,Air Transport International
+947,19874,Air Transport International
+948,19875,Aero California
+949,19876,Heritage Airlines
+950,19877,Kitty Hawk Air Cargo
+951,19878,Columbia Pacific Airlines
+952,19879,Columbia Pacific Airlines
+953,19880,Central States Air Lines
+954,19881,Mohawk Airlines
+955,19882,Skymaster
+956,19883,Novair International Airways Ltd.
+957,19884,TPI International Airways
+958,19884,TPI International Airways
+959,19885,Universal Airlines Inc.
+960,19885,Universal Airlines Inc.
+961,19886,Aruba Cargo
+962,19887,Latcr
+963,19888,Transcarga
+964,19889,Venexcargo
+965,19890,Aeroejecutivos C.A.
+966,19891,Aeropuma
+967,19892,Aeronautica De Cancun
+968,19893,Aerovias Colombianas Arca
+969,19894,Zuliana De Aviacion
+970,19895,Interamericana De Aviacion
+971,19896,Fast Air Carrier Ltd.
+972,19897,Lineas Aereas Mayas (Lamsa)
+973,19898,Emery Worldwide Airlines
+974,19898,Emery Worldwide Airlines
+975,19899,Hong Kong Dragonair
+976,19900,Air Marshall Islands Inc.
+977,19901,Blue Bell Inc.
+978,19901,Blue Bell Inc.
+979,19901,Blue Bell Inc.
+980,19902,Wrangler Aviation Inc.
+981,19902,Wrangler Aviation Inc.
+982,19903,Conquest Airline Corp.
+983,19904,Air Southeast
+984,19905,California Air Shuttle
+985,19906,Northcoast Executive
+986,19907,Scott Aviation
+987,19908,Trans Air (Hawaii)
+988,19909,Air Belgium
+989,19910,Aerolineas Latinas
+990,19911,Air Aruba
+991,19912,Cayman Airways Limited
+992,19912,Cayman Airways Limited
+993,19913,Belize Trans Air
+994,19914,Air Liberte
+995,19915,Sea Air Shuttle
+996,19916,Primeras Lineas Uruguays For International
+997,19917,United Parcel Service
+998,19917,United Parcel Service
+999,19917,United Parcel Service
+1000,19917,United Parcel Service
+1001,19917,United Parcel Service
+1002,19917,United Parcel Service
+1003,19918,Gulf Air Taxi
+1004,19919,Adirondack Airlines
+1005,19920,Corporate Air
+1006,19921,Drummond Island Air
+1007,19922,Gulf Flite Center
+1008,19923,Lapsa
+1009,19924,L'Express
+1010,19925,Travelair
+1011,19926,Valley Air Services
+1012,19927,Aerosur
+1013,19928,Central American Airlines
+1014,19929,Charter One
+1015,19930,Alaska Airlines Inc.
+1016,19930,Alaska Airlines Inc.
+1017,19931,Regal Air
+1018,19932,Apa International Air S.A.
+1019,19932,Apa International Air S.A.
+1020,19933,Air New Zealand
+1021,19933,Air New Zealand
+1022,19934,Das Air Cargo
+1023,19935,Star Aviation
+1024,19936,Territorial Airlines
+1025,19937,Loken Aviation
+1026,19938,Dawn Air
+1027,19939,Flying Boat
+1028,19940,Caraven S.A.
+1029,19941,Trans Europ. Airways France
+1030,19942,General Air Cargo
+1031,19943,Allied Airlines
+1032,19944,Airvantage
+1033,19945,Chicago Air Taxi
+1034,19946,Great Western Aviation
+1035,19947,Paradise Island Airlines
+1036,19948,Redwing Airways
+1037,19949,Lauda Air Luftfahrt Ag
+1038,19950,Rosenbalm Aviation Inc.
+1039,19950,Rosenbalm Aviation Inc.
+1040,19950,Rosenbalm Aviation Inc.
+1041,19950,Rosenbalm Aviation Inc.
+1042,19950,Rosenbalm Aviation Inc.
+1043,19950,Flagship Express Services
+1044,19950,Flagship Express Services
+1045,19950,Flagship Express Services
+1046,19951,Braniff International Airlines Inc.
+1047,19952,Pacific Interstate Airlines
+1048,19952,Pacific Interstate Airlines
+1049,19952,Pacific Interstate Airlines
+1050,19952,Carnival Air Lines Inc.
+1051,19952,Carnival Air Lines Inc.
+1052,19952,Pacific Interstate Airlines
+1053,19952,Pacific Interstate Airlines
+1054,19952,Pacific Interstate Airlines
+1055,19952,Pacific Interstate Airlines
+1056,19953,Transportes Aereos Mercantiles Panamericanos S.A
+1057,19953,Transportes Aereos Mercantiles Panamericanos S.A
+1058,19954,Japan Air Charter Co. Ltd.
+1059,19955,Affretair
+1060,19956,Servicios Avensa
+1061,19957,Mcclain Airlines Inc.
+1062,19958,China Eastern Airlines
+1063,19959,Dulles Express
+1064,19960,Skybus Express Airlines
+1065,19961,Air Transat
+1066,19961,Air Transat
+1067,19962,Hawaii Pacific Air
+1068,19963,World Air Network
+1069,19964,Island Express
+1070,19965,Rocky Mountain Helicopters
+1071,19966,Sierra Nevada Airways
+1072,19967,Trans World Express
+1073,19968,Arizona Pacific Airways
+1074,19969,International Cargo Xpress
+1075,19969,International Cargo Xpress
+1076,19969,International Cargo Xpress
+1077,19970,Northeast Express Regional
+1078,19971,Northeast Express Regional
+1079,19972,Av Atlantic
+1080,19972,Av Atlantic
+1081,19972,Av Atlantic
+1082,19973,Aerotour Dominicano Cxa
+1083,19974,Aero Uruguay
+1084,19975,Aero Uruguay
+1085,19976,Air North
+1086,19977,United Air Lines Inc.
+1087,19977,United Air Lines Inc.
+1088,19977,United Air Lines Inc.
+1089,19977,United Air Lines Inc.
+1090,19978,Air Alpha
+1091,19979,Alliance Air
+1092,19980,Florida Air
+1093,19981,Patriot Airlines Inc.
+1094,19981,Patriot Airlines Inc.
+1095,19981,Patriot Airlines Inc.
+1096,19982,USAir Shuttle
+1097,19982,USAir Shuttle
+1098,19982,Trump Shuttle
+1099,19982,Trump Shuttle
+1100,19983,Key Airlines Inc.
+1101,19983,Key Airlines Inc.
+1102,19983,Key Airlines Inc.
+1103,19983,Key Airlines Inc.
+1104,19983,Key Airlines Inc.
+1105,19984,Translift Airways Limited
+1106,19985,Turks Air Ltd.
+1107,19986,Turks Air Ltd.
+1108,19987,Advantage Airlines
+1109,19988,Air West Airlines
+1110,19989,Keene Airways
+1111,19990,Sky One Express
+1112,19991,America West Airlines Inc.
+1113,19991,America West Airlines Inc.
+1114,19991,America West Airlines Inc.
+1115,19992,Hispaniola Airways
+1116,19993,Airmark Airlines Inc.
+1117,19993,Airmark Airlines Inc.
+1118,19993,Airmark Airlines Inc.
+1119,19994,Reno Air Inc.
+1120,19995,Aces Airlines
+1121,19996,Nicaraguense De Aviacion Sa
+1122,19997,Jet America Airlines Inc.
+1123,19998,Sierra Pacific Airlines
+1124,19998,Sierra Pacific Airlines
+1125,19999,South Pacific Island Airway
+1126,19999,South Pacific Island Airway
+1127,19999,South Pacific Island Airway
+1128,20000,Time Air Sweden Ab
+1129,20001,Tranps Aereos Guatemaltecos
+1130,20002,Morris Air Corporation
+1131,20002,Morris Air Corporation
+1132,20003,Balkan Bulgarian Airlines
+1133,20004,Cal Air International Ltd.
+1134,20005,Eva Airways Corporation
+1135,20006,Capitol Air Express Inc.
+1136,20006,Capitol Air Express Inc.
+1137,20006,Capitol Air Express Inc.
+1138,20007,Atlas Air Inc.
+1139,20007,Atlas Air Inc.
+1140,20007,Atlas Air Inc.
+1141,20007,Atlas Air Inc.
+1142,20007,Atlas Air Inc.
+1143,20008,Ram Aviation
+1144,20009,Eclipse Airlines
+1145,20010,Aero Transcolombiana
+1146,20011,Air Casino
+1147,20012,Express Airlines II
+1148,20013,Rader Aviation
+1149,20014,Trans American Charter
+1150,20014,Trans American Charter
+1151,20014,Trans American Charter
+1152,20015,Export Air Del Peru S.A.
+1153,20016,Lineas Aereas Allegro
+1154,20017,Continental Micronesia
+1155,20018,J.D.Valenciana De Aviation
+1156,20019,Private Jet Expeditions
+1157,20019,Private Jet Expeditions
+1158,20019,Private Jet Expeditions
+1159,20019,Private Jet Expeditions
+1160,20019,Private Jet Expeditions
+1161,20020,Eagle Airlines
+1162,20020,Eagle Airlines
+1163,20020,Eagle Airlines
+1164,20021,Eagle Airlines
+1165,20022,Leisure International Airways Ltd.
+1166,20023,Malev Hungarian Airlines
+1167,20024,Serv. Aerolineas Mexicanas
+1168,20025,Lineas Aereas Suramerican
+1169,20026,Quassar De Mexico
+1170,20027,Oasis International Airlines S.A.
+1171,20028,Aerochago S.A.
+1172,20028,Aerochago S.A.
+1173,20029,Transp. Aereos Ejecutivos
+1174,20029,Transp. Aereos Ejecutivos
+1175,20030,Aerolineas Uruguayas S.A.
+1176,20031,People Express Airlines Inc.
+1177,20031,People Express Airlines Inc.
+1178,20032,Air Europe S.P.A.
+1179,20033,UFS Inc.
+1180,20034,Pacific International Airlines
+1181,20035,Air Florida Express
+1182,20036,American Flight Group
+1183,20037,Aviation Sales
+1184,20038,Business Helicopters
+1185,20039,Four Star Aviation
+1186,20040,Sky-Jet
+1187,20041,Salair
+1188,20042,Southern Air Transport Inc.
+1189,20042,Southern Air Transport Inc.
+1190,20042,Southern Air Transport Inc.
+1191,20043,Air Ukraine
+1192,20044,Aeromonterrey S.A.
+1193,20045,Biman Bangladesh Airlines
+1194,20046,Air Wisconsin Inc.
+1195,20046,Air Wisconsin Inc.
+1196,20046,Air Wisconsin Airlines Corp
+1197,20047,Caribair
+1198,20048,Gorda Aero Service
+1199,20049,Western Air Lines Inc.
+1200,20049,Western Air Lines Inc.
+1201,20050,Worldwide Airlines Services
+1202,20050,Worldwide Airlines Services
+1203,20050,Worldwide Airlines Services
+1204,20050,Worldwide Airlines Services
+1205,20051,USAfrica Airways Inc.
+1206,20051,USAfrica Airways Inc.
+1207,20052,Skyjet S.A.
+1208,20053,Servicio Aereo Leo Lopez
+1209,20054,Gulf Air Transport Inc.
+1210,20054,Gulf Air Transport Inc.
+1211,20054,Gulf Air Transport Inc.
+1212,20055,Gulf Air Company
+1213,20056,Antigua Paradise Airways
+1214,20057,Evergreen International Inc.
+1215,20057,Evergreen International Inc.
+1216,20057,Evergreen International Inc.
+1217,20057,Evergreen International Inc.
+1218,20058,Air Pacific Ltd.
+1219,20059,Air Pacific Ltd.
+1220,20060,Air South Inc.
+1221,20061,Air South Inc.
+1222,20062,Island Air Charters
+1223,20063,Pacificair
+1224,20064,Ghana Airways Corporation
+1225,20065,Sky Service F.B.O.
+1226,20066,Advance Air Charters
+1227,20067,Mahalo Air
+1228,20068,Capitol Air
+1229,20069,Dolphin Express
+1230,20070,Grand Airways Inc.
+1231,20070,Grand Airways Inc.
+1232,20071,Jetall Airways
+1233,20072,Scanair
+1234,20073,Premiair
+1235,20074,Renown Aviation
+1236,20074,Renown Aviation
+1237,20074,Renown Aviation
+1238,20075,Aeromar C. Por A.
+1239,20075,Aeromar C. Por A.
+1240,20075,Aeromar C. Por A.
+1241,20076,Texas Airways
+1242,20077,Halisa Air
+1243,20078,Western Pacific Airlines
+1244,20079,Brasair Transportes Aereos
+1245,20080,Uzbekistan Airways
+1246,20081,Downeast Flying Service
+1247,20082,Pine State Airlines
+1248,20083,Sunshine Airlines
+1249,20084,Aspen Airways Inc.
+1250,20084,Aspen Airways Inc.
+1251,20085,Aeromexpress
+1252,20085,Aeromexpress
+1253,20086,Tristar Airlines Inc.
+1254,20087,Sierra Expressway
+1255,20088,Tower Air Inc.
+1256,20088,Tower Air Inc.
+1257,20088,Tower Air Inc.
+1258,20089,Serv De Trans Aereos Fuegui
+1259,20089,Serv De Trans Aereos Fuegui
+1260,20090,Royal Air
+1261,20091,Krasair
+1262,20092,Merlin Express
+1263,20093,Custom Air Transport
+1264,20093,Custom Air Transport
+1265,20094,Jettrain Airlines
+1266,20095,World Airways Inc.
+1267,20095,World Airways Inc.
+1268,20095,World Airways Inc.
+1269,20095,World Airways Inc.
+1270,20095,World Airways Inc.
+1271,20096,Mexicargo
+1272,20097,Prestige Airways
+1273,20097,Paradise Airways
+1274,20098,Eagle Jet Charter
+1275,20099,Laker Airways Inc.
+1276,20099,Laker Airways Inc.
+1277,20099,Laker Airways Inc.
+1278,20100,Polar Air Cargo Airways
+1279,20100,Polar Air Cargo Airways
+1280,20100,Polar Air Cargo Airways
+1281,20100,Polar Air Cargo Airways
+1282,20100,Polar Air Cargo Airways
+1283,20100,Polar Air Cargo Airways
+1284,20100,Polar Air Cargo Airways
+1285,20100,Polar Air Cargo Airways
+1286,20101,Southern Frontier Air Trans
+1287,20102,Sportsflight Airways Inc.
+1288,20102,Sportsflight Airways Inc.
+1289,20102,Sportsflight Airways Inc.
+1290,20102,Pacific International Airlines Inc.
+1291,20102,Pacific International Airlines Inc.
+1292,20102,Pacific International Airlines Inc.
+1293,20103,North East Cargo Airlines
+1294,20104,Transaero Airlines
+1295,20104,Transaero Airlines
+1296,20105,Empresa Ecuatoriana De Avia
+1297,20105,Ecuatoriana De Aviacion
+1298,20106,Sunworld International Airlines
+1299,20106,Sunworld International Airlines
+1300,20106,Sunworld International Airlines
+1301,20107,Federal Express Corporation
+1302,20107,Federal Express Corporation
+1303,20107,Federal Express Corporation
+1304,20107,Federal Express Corporation
+1305,20107,Federal Express Corporation
+1306,20107,Federal Express Corporation
+1307,20107,Federal Express Corporation
+1308,20107,Federal Express Corporation
+1309,20107,Federal Express Corporation
+1310,20108,Northern Air Cargo Inc.
+1311,20108,Northern Air Cargo Inc.
+1312,20108,Northern Air Cargo Inc.
+1313,20108,Northern Air Cargo Inc.
+1314,20109,Transwede Airways Ab
+1315,20109,Blue Scandinavia Ab
+1316,20110,Antonov Design Bureau
+1317,20110,Antonov Company
+1318,20111,DHL Aero Expresso
+1319,20112,Maverick Airways
+1320,20113,Golden West Airlines Inc.
+1321,20114,Air Caribbean
+1322,20114,Air Caribbean
+1323,20115,Air Caribbean
+1324,20116,Canada 3000 Airlines Ltd.
+1325,20116,Canada 3000 Airlines Ltd.
+1326,20117,Sobelair
+1327,20118,Air Illinois Inc.
+1328,20118,Air Illinois Inc.
+1329,20119,Air Europa
+1330,20119,Air Europa
+1331,20119,Air Europa
+1332,20120,Condor Flugdienst
+1333,20120,Condor Flugdienst
+1334,20121,Air Atlantic Dominicana
+1335,20122,Mountain Air Express
+1336,20123,Aeroejecutivo S.A.
+1337,20123,Aeroejecutivo S.A.
+1338,20124,City Bird
+1339,20125,Panagra Airways
+1340,20125,Panagra Airways
+1341,20125,Panagra Airways
+1342,20126,Laker Airways
+1343,20127,Lb Limited
+1344,20127,Laker Airways
+1345,20128,Flying Colours Airlines Ltd.
+1346,20129,Sky Trek International Airlines
+1347,20129,Sky Trek International Airlines
+1348,20129,Sky Trek International Airlines
+1349,20130,M & N Aviation
+1350,20131,Jim Air Inc.
+1351,20132,Cascade Airways Inc.
+1352,20132,Cascade Airways Inc.
+1353,20133,China Southern Airlines
+1354,20134,Caribbean Airline Company
+1355,20134,Jamaica Air Freighters
+1356,20135,Nacnet
+1357,20136,Magadan Airlines
+1358,20137,Sunworld International Airways Inc.
+1359,20138,Spanair S.A.
+1360,20138,Spanair S.A.
+1361,20139,Air Atlanta Inc.
+1362,20140,Air Atlanta Icelandic
+1363,20141,Austin Express Inc.
+1364,20142,Flagship Airlines Inc.
+1365,20142,Flagship Airlines Inc.
+1366,20143,Kiwi International
+1367,20143,Kiwi International
+1368,20144,Transportes Aereos Nacional
+1369,20145,Air Guadeloupe
+1370,20145,Soc.Nouvelle Air Guadeloupe
+1371,20146,Sun Pacific International
+1372,20146,Sun Pacific International
+1373,20146,Sun Pacific International
+1374,20146,Sun Pacific International
+1375,20146,Sun Pacific International
+1376,20147,TransMeridian Airlines
+1377,20147,TransMeridian Airlines
+1378,20147,TransMeridian Airlines
+1379,20147,TransMeridian Airlines
+1380,20147,TransMeridian Airlines
+1381,20148,Martinair Holland N.V.
+1382,20148,Martinair Holland N.V.
+1383,20149,Florida West Airlines Inc.
+1384,20149,Florida West Airlines Inc.
+1385,20149,Florida West Airlines Inc.
+1386,20149,Florida West Airlines Inc.
+1387,20149,Florida West Airlines Inc.
+1388,20149,Florida West Airlines Inc.
+1389,20149,Florida West Airlines Inc.
+1390,20149,Florida West Airlines Inc.
+1391,20149,Florida West Airlines Inc.
+1392,20149,Florida West Airlines Inc.
+1393,20150,Harlequin Air Corporation
+1394,20151,Amerijet International
+1395,20151,Amerijet International
+1396,20151,Amerijet International
+1397,20151,Amerijet International
+1398,20151,Amerijet International
+1399,20151,Amerijet International
+1400,20151,Amerijet International
+1401,20152,Aviacsa Airlines
+1402,20153,Ethiopian Airlines
+1403,20154,Airbus Transport Internat'l
+1404,20155,Linea Aeropostal Venezolana
+1405,20155,Aeropostal Alas De Venezuel
+1406,20156,ABSA-Aerolinhas Brasileiras
+1407,20157,Swiss World Airways
+1408,20158,Av Center Inc.
+1409,20159,Express Air d/b/a Sunrise
+1410,20160,Braniff Inc.
+1411,20160,Braniff Inc.
+1412,20161,Britannia Airways GmbH
+1413,20162,Air Tahiti Nui
+1414,20163,Translux Intl Airlines
+1415,20164,Accessair Holdings
+1416,20165,Queen Air
+1417,20166,Gulf And Caribbean Cargo
+1418,20166,Gulf And Caribbean Cargo
+1419,20166,Gulf And Caribbean Cargo
+1420,20166,Gulf And Caribbean Cargo
+1421,20166,Gulf And Caribbean Cargo
+1422,20166,Gulf And Caribbean Cargo
+1423,20166,Gulf And Caribbean Cargo
+1424,20166,Gulf And Caribbean Cargo
+1425,20166,Gulf And Caribbean Cargo
+1426,20166,Gulf And Caribbean Cargo
+1427,20166,Gulf And Caribbean Cargo
+1428,20167,Transportes Aeros Meridiona
+1429,20168,Eastwind Airlines Inc.
+1430,20168,Eastwind Airlines Inc.
+1431,20169,Lynden Air Cargo Airlines
+1432,20169,Lynden Air Cargo Airlines
+1433,20169,Lynden Air Cargo Airlines
+1434,20169,Lynden Air Cargo Airlines
+1435,20169,Lynden Air Cargo Airlines
+1436,20169,Lynden Air Cargo Airlines
+1437,20169,Lynden Air Cargo Airlines
+1438,20170,Mesaba Airlines
+1439,20170,Mesaba Airlines
+1440,20170,Mesaba Airlines
+1441,20171,American International Airways Inc.
+1442,20171,American International Airways Inc.
+1443,20171,American International Airways Inc.
+1444,20172,Lanica
+1445,20173,Kitty Hawk International
+1446,20173,Kitty Hawk International
+1447,20173,Connie Kalitta Services
+1448,20173,Connie Kalitta Services
+1449,20173,American International Airways Inc.
+1450,20173,American International Airways Inc.
+1451,20174,Air Ketchum Idaho Inc.
+1452,20175,Luxair
+1453,20176,National Airlines
+1454,20177,Asia Pacific
+1455,20177,Asia Pacific
+1456,20177,Asia Pacific
+1457,20177,Asia Pacific
+1458,20177,Asia Pacific
+1459,20178,Lorair Ltd.
+1460,20178,Lorair Ltd.
+1461,20179,Britannia Airways A.B.
+1462,20179,TUIfly Nordic A.B.
+1463,20181,Trans International Express
+1464,20182,Lapa-Lineas Aereas Privadas
+1465,20183,Czechoslovak Airlines
+1466,20183,Czech Airlines
+1467,20183,Czechoslovak Airlines
+1468,20184,Novair Airlines Ab
+1469,20185,Jalways Co. Ltd.
+1470,20186,Sterling Cargo
+1471,20187,The Hawaii Express Inc.
+1472,20188,Lan Peru Airlines
+1473,20189,Aero Continente
+1474,20190,Southern Air Inc.
+1475,20190,Southern Air Inc.
+1476,20190,Southern Air Inc.
+1477,20190,Southern Air Inc.
+1478,20190,Southern Air Inc.
+1479,20191,Fine Airlines Inc.
+1480,20191,Fine Airlines Inc.
+1481,20191,Fine Airlines Inc.
+1482,20191,Fine Airlines Inc.
+1483,20191,Fine Airlines Inc.
+1484,20192,Vanguard Airlines Inc.
+1485,20192,Vanguard Airlines Inc.
+1486,20193,Gemini Air Cargo Airways
+1487,20193,Gemini Air Cargo Airways
+1488,20193,Gemini Air Cargo Airways
+1489,20193,Gemini Air Cargo Airways
+1490,20194,Arrow Air Inc.
+1491,20194,Arrow Air Inc.
+1492,20194,Arrow Air Inc.
+1493,20194,Arrow Air Inc.
+1494,20194,Arrow Air Inc.
+1495,20195,Tradewinds Airlines
+1496,20195,Tradewinds Airlines
+1497,20195,Tradewinds Airlines
+1498,20195,Tradewinds Airlines
+1499,20195,Tradewinds Airlines
+1500,20195,Tradewinds Airlines
+1501,20195,Tradewinds Airlines
+1502,20195,Sky Lease Cargo
+1503,20195,Sky Lease Cargo
+1504,20196,Air Malta
+1505,20197,Casino Airlines
+1506,20198,Casino Airlines
+1507,20199,Farwest Airlines
+1508,20200,C.A.L Cargo Airlines
+1509,20201,Ameristar Air Cargo
+1510,20201,Ameristar Air Cargo
+1511,20201,Ameristar Air Cargo
+1512,20202,Chicago Express Airlines
+1513,20202,Chicago Express Airlines
+1514,20203,Falcon Air Express
+1515,20203,Falcon Air Express
+1516,20203,Falcon Air Express
+1517,20203,Falcon Air Express
+1518,20203,Falcon Air Express
+1519,20203,Falcon Air Express
+1520,20203,Falcon Air Express
+1521,20203,Falcon Air Express
+1522,20203,Falcon Air Express
+1523,20203,Falcon Air Express
+1524,20203,Falcon Air Express
+1525,20204,MGM Grand Air Inc.
+1526,20204,MGM Grand Air Inc.
+1527,20204,Champion Air
+1528,20204,Champion Air
+1529,20204,Champion Air
+1530,20204,Champion Air
+1531,20205,Aeromaritime
+1532,20205,Aeromaritime
+1533,20206,Air Nova
+1534,20206,Air Canada Regional
+1535,20206,Jazz Aviation LP
+1536,20207,Casino Express
+1537,20207,Casino Express
+1538,20207,Casino Express
+1539,20207,Casino Express
+1540,20207,Casino Express
+1541,20207,Casino Express
+1542,20207,Casino Express
+1543,20207,XTRA Airways
+1544,20207,XTRA Airways
+1545,20208,Taca Peru
+1546,20209,Air Japan Co
+1547,20210,Privatair
+1548,20211,Trans World Airways LLC
+1549,20211,Trans World Airways LLC
+1550,20211,Trans World Airlines Inc.
+1551,20211,Trans World Airlines Inc.
+1552,20211,Trans World Airlines Inc.
+1553,20212,Sunair Express LLC
+1554,20213,Polyot Airlines
+1555,20214,Avia Leasing Company
+1556,20215,Best Airlines Inc.
+1557,20216,Air Liberte Aka Aom Minerve
+1558,20216,Aom Minerve S.A.
+1559,20216,Air Liberte Aka Aom Minerve
+1560,20216,Aom Minerve S.A.
+1561,20217,Air Excursions LLC
+1562,20217,Air Excursions LLC
+1563,20218,Express One International Inc.
+1564,20218,Express One International Inc.
+1565,20218,Express One International Inc.
+1566,20218,Express One International Inc.
+1567,20218,Express One International Inc.
+1568,20218,Express One International Inc.
+1569,20218,Express One International Inc.
+1570,20218,Express One International Inc.
+1571,20219,Village Aviation
+1572,20219,Village Aviation
+1573,20220,Air 21
+1574,20221,Air Comet S.A.
+1575,20221,Air Comet S.A.
+1576,20222,Estafeta Carga Aereas
+1577,20223,F.S. Air Service
+1578,20223,F.S. Air Service
+1579,20224,Katmai Air
+1580,20224,Katmai Air
+1581,20225,Peninsula Airways Inc.
+1582,20225,Peninsula Airways Inc.
+1583,20225,Peninsula Airways Inc.
+1584,20226,Spernak Airways Inc.
+1585,20226,Spernak Airways Inc.
+1586,20227,Vensecar International
+1587,20228,Suncoast Airlines Inc.
+1588,20228,Suncoast Airlines Inc.
+1589,20228,Suncoast Airlines Inc.
+1590,20229,Westjet
+1591,20230,Lineas Aereas Azteca
+1592,20231,Dutch Caribbean Airlines
+1593,20231,Alm Antillean Airlines
+1594,20232,Cielos De Peru
+1595,20233,Swiss International Airlines
+1596,20234,Edelweiss Air Ag
+1597,20235,Conner Air Lines Inc.
+1598,20235,Conner Air Lines Inc.
+1599,20235,Conner Air Lines Inc.
+1600,20235,Conner Air Lines Inc.
+1601,20235,Conner Air Lines Inc.
+1602,20236,Sol Air (Aero Hunduras)
+1603,20237,Trans States Airlines
+1604,20237,Trans States Airlines
+1605,20237,Trans States Airlines
+1606,20237,Trans States Airlines
+1607,20238,Southern Wind Airlines
+1608,20239,All Canada Express
+1609,20240,Ccair
+1610,20240,Ccair
+1611,20241,Sunrise Airlines Inc.
+1612,20241,Scenic Airlines
+1613,20242,North Vancouver Air
+1614,20243,Valujet Airlines Inc.
+1615,20244,Potomac Air
+1616,20244,Potomac Air
+1617,20245,Great Plains Airlines Inc.
+1618,20245,Great Plains Airlines Inc.
+1619,20246,Atlantic Coast Jet Inc.
+1620,20246,Atlantic Coast Jet Inc.
+1621,20247,Rio Grande Air
+1622,20247,Rio Grande Air
+1623,20248,Wilburs Inc.
+1624,20248,Wilburs Inc.
+1625,20249,Nevis Express
+1626,20249,Nevis Express
+1627,20250,Aerolitoral
+1628,20251,Westair Airlines Inc.
+1629,20251,Westair Airlines Inc.
+1630,20252,Pacific Island Aviation
+1631,20252,Pacific Island Aviation
+1632,20253,Cape Air
+1633,20253,Cape Air
+1634,20254,Colgan Air
+1635,20254,Colgan Air
+1636,20254,Colgan Air
+1637,20254,Colgan Air
+1638,20255,Central Mountain Air
+1639,20256,Arizona Airways
+1640,20257,Bemidji Airlines
+1641,20257,Bemidji Airlines
+1642,20257,Bemidji Airlines
+1643,20258,Big Sky Airlines Inc.
+1644,20258,Big Sky Airlines Inc.
+1645,20258,Big Sky Airlines Inc.
+1646,20259,European Aviation Air Charter
+1647,20260,Worldwide Airlines Inc.
+1648,20260,Worldwide Airlines Inc.
+1649,20260,Worldwide Airlines Inc.
+1650,20261,Ellis Air Taxi Inc.
+1651,20261,Ellis Air Taxi Inc.
+1652,20262,Empire Airlines Inc.
+1653,20263,Empire Airlines Inc.
+1654,20263,Empire Airlines Inc.
+1655,20263,Empire Airlines Inc.
+1656,20263,Empire Airlines Inc.
+1657,20263,Empire Airlines Inc.
+1658,20264,Empire Airlines Inc.
+1659,20265,Freedom Airlines d/b/a HP Expr
+1660,20265,Freedom Airlines d/b/a HP Expr
+1661,20266,G5 Executive Ag
+1662,20267,Grand Canyon Helicopters
+1663,20267,Grand Canyon Helicopters
+1664,20268,Global Supply System
+1665,20269,Allegheny Airlines
+1666,20269,Allegheny Airlines
+1667,20270,Helijet International Inc.
+1668,20270,Helijet International Inc.
+1669,20271,Winair Inc.
+1670,20271,Winair Inc.
+1671,20272,Kenmore Air Harbor
+1672,20272,Kenmore Air Harbor
+1673,20273,New England Airlines Inc.
+1674,20273,New England Airlines Inc.
+1675,20274,Northwest Seaplanes
+1676,20274,Northwest Seaplanes
+1677,20275,Ozark Air Lines Inc.
+1678,20276,Ozark Air Lines Inc.
+1679,20276,Ozark Air Lines Inc.
+1680,20277,Asiana Airlines Inc.
+1681,20278,Mytravel Airways
+1682,20278,Airtours International Airways
+1683,20279,Air-Serve
+1684,20279,Air-Serve
+1685,20280,Seaborne Aviation
+1686,20280,Seaborne Aviation
+1687,20281,Mountain Bird/Salmon Air
+1688,20281,Mountain Bird/Salmon Air
+1689,20281,Mountain Bird/Salmon Air
+1690,20282,Samoa Aviation Inc.
+1691,20282,Samoa Aviation Inc.
+1692,20283,Trans Continental Airlines
+1693,20283,Trans Continental Airlines
+1694,20283,Trans Continental Airlines
+1695,20283,Trans Continental Airlines
+1696,20284,Trans Continental Airlines
+1697,20284,Trans Continental Airlines
+1698,20284,Trans Continental Airlines
+1699,20284,Trans Continental Airlines
+1700,20284,Trans Continental Airlines
+1701,20284,Express.Net Airlines
+1702,20284,Express.Net Airlines
+1703,20285,Ward Air
+1704,20286,Vintage Props & Jets Inc.
+1705,20286,Vintage Props & Jets Inc.
+1706,20287,Aloha Island Air
+1707,20287,Island Air Hawaii
+1708,20287,Island Air Hawaii
+1709,20287,Island Air Hawaii
+1710,20287,Aloha Island Air
+1711,20288,Trans International Airlines Inc.
+1712,20288,Trans International Airlines Inc.
+1713,20288,Trans International Airlines Inc.
+1714,20289,Friday Harbor Seaplanes
+1715,20289,West Isle Air
+1716,20289,West Isle Air
+1717,20290,Air St. Thomas
+1718,20290,Air St. Thomas
+1719,20291,Air Midwest Inc.
+1720,20291,Air Midwest Inc.
+1721,20291,Air Midwest Inc.
+1722,20291,Air Midwest Inc.
+1723,20292,Airbc Ltd.
+1724,20293,Air Georgian
+1725,20294,Jetsgo
+1726,20295,Midway Airlines Inc.
+1727,20295,Midway Airlines Inc.
+1728,20296,Aero Costa Rica
+1729,20297,Midway Airlines Inc.
+1730,20297,Midway Airlines Inc.
+1731,20298,Jes Air Ltd.
+1732,20299,Sun Jet International Inc.
+1733,20299,Southeast Airlines
+1734,20299,Southeast Airlines
+1735,20300,Pacific Wings Airlines
+1736,20300,Pacific Wings Airlines
+1737,20300,Pacific Wings Airlines
+1738,20301,Kar-Air Oy
+1739,20302,Kitty Hawk Aircargo
+1740,20302,Kitty Hawk Aircargo
+1741,20302,Kitty Hawk Aircargo
+1742,20302,Kitty Hawk Aircargo
+1743,20302,Kitty Hawk Aircargo
+1744,20302,Kitty Hawk Aircargo
+1745,20302,Kitty Hawk Aircargo
+1746,20303,Nolinor Aviation
+1747,20304,SkyWest Airlines Inc.
+1748,20304,SkyWest Airlines Inc.
+1749,20304,SkyWest Airlines Inc.
+1750,20304,SkyWest Airlines Inc.
+1751,20304,SkyWest Airlines Inc.
+1752,20305,Pace Airlines
+1753,20305,Pace Airlines
+1754,20305,Pace Airlines
+1755,20305,Pace Airlines
+1756,20305,Pace Airlines
+1757,20305,Pace Airlines
+1758,20306,Challenge Air Transport Inc.
+1759,20306,Challenge Air Transport Inc.
+1760,20306,Challenge Air Transport Inc.
+1761,20306,Challenge Air Transport Inc.
+1762,20307,Challenge Air International Inc.
+1763,20307,Challenge Air International Inc.
+1764,20307,Challenge Air International Inc.
+1765,20308,Challenge Air Cargo Inc.
+1766,20308,Challenge Air Cargo Inc.
+1767,20308,Challenge Air Cargo Inc.
+1768,20308,Centurion Cargo Inc.
+1769,20308,Centurion Cargo Inc.
+1770,20308,Centurion Cargo Inc.
+1771,20308,Centurion Cargo Inc.
+1772,20309,Aerosvit Ukranian Airlines
+1773,20310,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines"
+1774,20310,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines"
+1775,20310,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines"
+1776,20310,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines"
+1777,20310,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines"
+1778,20310,Caribbean Sun Airlines
+1779,20310,Caribbean Sun Airlines
+1780,20310,Caribbean Sun Airlines
+1781,20311,Jet Connection Businessflight Ag
+1782,20312,ATA Airlines d/b/a ATA
+1783,20312,ATA Airlines d/b/a ATA
+1784,20312,ATA Airlines d/b/a ATA
+1785,20312,ATA Airlines d/b/a ATA
+1786,20312,American Trans Air Inc.
+1787,20312,American Trans Air Inc.
+1788,20312,American Trans Air Inc.
+1789,20312,American Trans Air Inc.
+1790,20312,American Trans Air Inc.
+1791,20312,American Trans Air Inc.
+1792,20313,Cargojet Logistics
+1793,20313,Cargojet Airways Ltd.
+1794,20313,Winnport Logistics
+1795,20314,Midwest Express Airlines
+1796,20314,Midwest Express Airlines
+1797,20314,"Midwest Airline, Inc."
+1798,20315,Bellair Inc.
+1799,20315,Bellair Inc.
+1800,20315,Bellair Inc.
+1801,20316,Bellair Inc.
+1802,20317,MK Airlines Ltd.
+1803,20318,Olson Air Service
+1804,20318,Olson Air Service
+1805,20318,Olson Air Service
+1806,20319,Smokey Bay Air Inc.
+1807,20319,Smokey Bay Air Inc.
+1808,20319,Smokey Bay Air Inc.
+1809,20320,Frontier Flying Service
+1810,20320,Frontier Flying Service
+1811,20320,Frontier Flying Service
+1812,20320,Frontier Flying Service
+1813,20321,British Airtours Limited
+1814,20322,Tanana Air Service
+1815,20322,Tanana Air Service
+1816,20322,Tanana Air Service
+1817,20322,Tanana Air Service
+1818,20323,Warbelow
+1819,20323,Warbelow
+1820,20324,Yute Air Aka Flight Alaska
+1821,20324,Yute Air Aka Flight Alaska
+1822,20325,Arctic Circle Air Service
+1823,20325,Arctic Circle Air Service
+1824,20325,Arctic Circle Air Service
+1825,20326,Cape Smythe Air Service
+1826,20326,Cape Smythe Air Service
+1827,20326,Cape Smythe Air Service
+1828,20327,Era Aviation
+1829,20327,Era Aviation
+1830,20327,Era Aviation
+1831,20328,Inland Aviation Services
+1832,20328,Inland Aviation Services
+1833,20328,Inland Aviation Services
+1834,20329,Skystar International Inc.
+1835,20329,Skystar International Inc.
+1836,20329,Skystar International Inc.
+1837,20330,Arctic Transportation
+1838,20330,Arctic Transportation
+1839,20330,Arctic Transportation
+1840,20331,Bering Air Inc.
+1841,20331,Bering Air Inc.
+1842,20331,Bering Air Inc.
+1843,20332,Baker Aviation Inc.
+1844,20332,Baker Aviation Inc.
+1845,20332,Baker Aviation Inc.
+1846,20333,Wright Air Service
+1847,20333,Wright Air Service
+1848,20333,Wright Air Service
+1849,20334,Thomas Cook Airlines Uk Ltd.
+1850,20334,Thomas Cook Airlines Uk Ltd.
+1851,20334,Jmc
+1852,20334,Caledonian Airways
+1853,20335,Boston-Maine Airways
+1854,20335,Boston-Maine Airways
+1855,20335,Boston-Maine Airways
+1856,20335,Boston-Maine Airways
+1857,20335,Boston-Maine Airways
+1858,20335,Boston-Maine Airways
+1859,20335,Boston-Maine Airways
+1860,20335,Boston-Maine Airways
+1861,20335,Boston-Maine Airways
+1862,20336,Hageland Aviation Service
+1863,20336,Hageland Aviation Service
+1864,20336,Hageland Aviation Service
+1865,20337,Alaska Seaplane Service
+1866,20337,Alaska Seaplane Service
+1867,20337,Kalinin Aviation LLC d/b/a Alaska Seaplanes
+1868,20337,Alaska Seaplane Service
+1869,20338,Larrys Flying Service
+1870,20338,Larrys Flying Service
+1871,20338,Larrys Flying Service
+1872,20339,L.A.B. Flying Service Inc.
+1873,20339,L.A.B. Flying Service Inc.
+1874,20340,"SeaPort Airlines, Inc. d/b/a Wings of Alaska"
+1875,20340,Wings Of Alaska
+1876,20340,"Seaport Airlines, Inc."
+1877,20340,Wings Of Alaska
+1878,20340,Wings Of Alaska
+1879,20341,Alaska Central Express
+1880,20341,Alaska Central Express
+1881,20341,Alaska Central Express
+1882,20342,40-Mile Air
+1883,20342,40-Mile Air
+1884,20342,40-Mile Air
+1885,20343,Airlift International Inc.
+1886,20343,Airlift International Inc.
+1887,20343,Airlift International Inc.
+1888,20344,Ryan Aviation Corporation
+1889,20344,Ryan Aviation Corporation
+1890,20344,Ryan International Airlines
+1891,20344,Ryan International Airlines
+1892,20344,Ryan International Airlines
+1893,20344,Ryan International Airlines
+1894,20344,Ryan International Airlines
+1895,20344,Ryan International Airlines
+1896,20344,Ryan International Airlines
+1897,20344,Ryan International Airlines
+1898,20344,Ryan International Airlines
+1899,20344,Ryan International Airlines
+1900,20344,Ryan International Airlines
+1901,20345,Regency Air
+1902,20346,Iliamna Air Taxi
+1903,20346,Iliamna Air Service
+1904,20346,Iliamna Air Taxi
+1905,20347,Pro Air Inc.
+1906,20347,Pro Air Inc.
+1907,20347,Pro Air Inc.
+1908,20348,Lan Ecuador
+1909,20349,Promech
+1910,20349,Promech
+1911,20349,Promech
+1912,20350,Lan Dominica
+1913,20351,Primaris Airlines Inc.
+1914,20351,Primaris Airlines Inc.
+1915,20352,Westward Airways Inc.
+1916,20353,"Dynamic Aviation, Inc. d/b/a Beacon"
+1917,20353,Servant Air Inc.
+1918,20353,Servant Air Inc.
+1919,20353,Servant Air Inc.
+1920,20354,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways
+1921,20354,Aerodynamics Inc.
+1922,20354,Aerodynamics Inc.
+1923,20354,Aerodynamics Inc.
+1924,20355,USAir
+1925,20355,USAir
+1926,20355,USAir
+1927,20355,USAir
+1928,20355,US Airways Inc.
+1929,20355,US Airways Inc.
+1930,20355,US Airways Inc.
+1931,20355,US Airways Inc.
+1932,20356,Skyway Airlines
+1933,20356,Skyway Airlines
+1934,20356,Skyway Airlines
+1935,20356,Skyway Airlines
+1936,20357,DHL Airways
+1937,20357,DHL Airways
+1938,20357,DHL Airways
+1939,20357,DHL Airways
+1940,20357,DHL Airways
+1941,20357,DHL Airways
+1942,20357,Astar Air Cargo Inc.
+1943,20357,Astar Air Cargo Inc.
+1944,20357,Astar Air Cargo Inc.
+1945,20357,"Astar USA, LLC"
+1946,20357,"Astar USA, LLC"
+1947,20357,"Astar USA, LLC"
+1948,20357,DHL Airways
+1949,20358,Great Lakes Aviation Ltd.
+1950,20358,Great Lakes Aviation Ltd.
+1951,20358,Great Lakes Airlines
+1952,20358,Great Lakes Aviation Ltd.
+1953,20359,Triair Bermuda Flt Operations
+1954,20360,Sata Internacional
+1955,20361,Valley Air Express Inc.
+1956,20362,China Cargo Airline
+1957,20363,Pinnacle Airlines Inc.
+1958,20363,Pinnacle Airlines Inc.
+1959,20363,Pinnacle Airlines Inc.
+1960,20363,Pinnacle Airlines Inc.
+1961,20363,Endeavor Air Inc.
+1962,20363,Endeavor Air Inc.
+1963,20363,Express Airlines Inc.
+1964,20364,Canjet Airlines
+1965,20365,Aviation Concepts
+1966,20365,Aviation Concepts
+1967,20365,Aviation Concepts
+1968,20366,ExpressJet Airlines Inc.
+1969,20366,ExpressJet Airlines Inc.
+1970,20366,ExpressJet Airlines Inc.
+1971,20366,ExpressJet Airlines Inc.
+1972,20366,Atlantic Southeast Airlines
+1973,20366,Atlantic Southeast Airlines
+1974,20366,Atlantic Southeast Airlines
+1975,20366,Atlantic Southeast Airlines
+1976,20366,Atlantic Southeast Airlines
+1977,20366,Atlantic Southeast Airlines
+1978,20366,Atlantic Southeast Airlines
+1979,20367,Freedom Air
+1980,20367,Freedom Air
+1981,20368,Allegiant Air
+1982,20368,Allegiant Air
+1983,20368,Allegiant Air
+1984,20368,Allegiant Air
+1985,20368,Allegiant Air
+1986,20368,Allegiant Air
+1987,20368,Allegiant Air
+1988,20370,Kalitta Air LLC
+1989,20370,Kalitta Air LLC
+1990,20370,Kalitta Air LLC
+1991,20370,Kalitta Air LLC
+1992,20370,Kalitta Air LLC
+1993,20370,Kalitta Air LLC
+1994,20370,Kalitta Air LLC
+1995,20370,Kalitta Air LLC
+1996,20370,Kalitta Air LLC
+1997,20370,Kalitta Air LLC
+1998,20371,Reliant Airlines
+1999,20371,Reliant Airlines
+2000,20371,Reliant Airlines
+2001,20371,Reliant Airlines
+2002,20371,Reliant Airlines
+2003,20371,Reliant Airlines
+2004,20372,Kalitta Charters II
+2005,20372,Kalitta Charters II
+2006,20372,Kalitta Charters II
+2007,20372,Kalitta Charters II
+2008,20372,Kalitta Charters II
+2009,20372,Kalitta Charters II
+2010,20373,Propair
+2011,20374,Britt Airways Inc.
+2012,20374,Continental Express
+2013,20374,Britt Airways Inc.
+2014,20374,ExpressJet Airlines Inc.
+2015,20374,ExpressJet Airlines Inc.
+2016,20374,ExpressJet Airlines Inc.
+2017,20374,ExpressJet Airlines Inc.
+2018,20374,ExpressJet Airlines Inc.
+2019,20374,ExpressJet Airlines Inc.
+2020,20374,ExpressJet Airlines Inc.
+2021,20374,ExpressJet Airlines Inc.
+2022,20375,First Choice Airways
+2023,20375,Air 2000 Limited
+2024,20376,"Mn Aviation, Inc."
+2025,20377,Omni Air International LLC
+2026,20377,Omni Air International LLC
+2027,20377,Omni Air Express
+2028,20377,Omni Air Express
+2029,20377,Omni Air Express
+2030,20377,Omni Air Express
+2031,20377,Omni Air Express
+2032,20378,Mesa Airlines Inc.
+2033,20378,Mesa Airlines Inc.
+2034,20378,Mesa Airlines Inc.
+2035,20378,Mesa Airlines Inc.
+2036,20378,Mesa Airlines Inc.
+2037,20378,Mesa Airlines Inc.
+2038,20378,Mesa Airlines Inc.
+2039,20378,Mesa Airlines Inc.
+2040,20379,Zantop International
+2041,20379,Zantop International
+2042,20379,Zantop International
+2043,20379,Zantop International
+2044,20380,Prince Edward Air
+2045,20380,SkyLink Express Inc.
+2046,20381,Air Atlanta Europe
+2047,20382,Victory Air Transport Inc.
+2048,20383,Venture Travel LLC d/b/a Taquan Air Service
+2049,20383,Venture Travel LLC d/b/a Taquan Air Service
+2050,20383,Venture Travel LLC d/b/a Taquan Air Service
+2051,20383,Venture Travel LLC d/b/a Taquan Air Service
+2052,20384,Pan American World Airways
+2053,20384,Pan American World Airways
+2054,20384,Pan American World Airways
+2055,20384,Pan American World Airways
+2056,20385,Air Panama Internacional
+2057,20386,Pan American World Airways
+2058,20386,Pan American World Airways
+2059,20386,Pan American World Airways
+2060,20387,Pan American World Airways
+2061,20387,Pan American World Airways
+2062,20387,Pan American World Airways
+2063,20387,Pan American Airways Corp.
+2064,20387,Pan American Airways Corp.
+2065,20387,Pan American Airways Corp.
+2066,20387,Pan American Airways Corp.
+2067,20388,Flying Boat Inc.
+2068,20388,Flying Boat Inc.
+2069,20389,Florida Coastal Airlines
+2070,20390,Belair Airlines Ltd.
+2071,20391,Israir Airlines
+2072,20392,Emirates
+2073,20393,Business Express
+2074,20394,Hmy Airways Inc.
+2075,20394,Harmony Airways
+2076,20395,Sociedad Aeronautica De Med
+2077,20396,Euro Atlantic Airways
+2078,20397,PSA Airlines Inc.
+2079,20397,PSA Airlines Inc.
+2080,20397,PSA Airlines Inc.
+2081,20397,PSA Airlines Inc.
+2082,20397,PSA Airlines Inc.
+2083,20397,PSA Airlines Inc.
+2084,20397,PSA Airlines Inc.
+2085,20398,Simmons Airlines
+2086,20398,American Eagle Airlines Inc.
+2087,20398,American Eagle Airlines Inc.
+2088,20398,American Eagle Airlines Inc.
+2089,20398,Envoy Air
+2090,20398,Envoy Air
+2091,20398,Simmons Airlines
+2092,20399,Planet Airways
+2093,20399,Planet Airways
+2094,20399,Planet Airways
+2095,20399,Planet Airways
+2096,20400,Capital Cargo International
+2097,20400,Capital Cargo International
+2098,20400,Capital Cargo International
+2099,20400,Capital Cargo International
+2100,20400,Capital Cargo International
+2101,20400,Capital Cargo International
+2102,20400,Capital Cargo International
+2103,20401,Silver Airways
+2104,20401,Gulfstream Int
+2105,20401,Gulfstream Int
+2106,20401,Gulfstream Int
+2107,20402,Miami Air International
+2108,20402,Miami Air International
+2109,20402,Miami Air International
+2110,20402,Miami Air International
+2111,20402,Miami Air International
+2112,20402,Miami Air International
+2113,20402,Miami Air International
+2114,20402,Miami Air International
+2115,20402,Miami Air International
+2116,20403,Discovery Airways Inc.
+2117,20404,Atlantic Coast Airlines
+2118,20404,Atlantic Coast Airlines
+2119,20404,Independence Air
+2120,20404,Atlantic Coast Airlines
+2121,20404,Atlantic Coast Airlines
+2122,20405,National Air Cargo Group Inc d/ba National Airlines
+2123,20405,National Air Cargo Group Inc d/ba National Airlines
+2124,20405,Murray Air
+2125,20405,"National Air Cargo Group, Inc. d/b/a Murray Air"
+2126,20405,"National Air Cargo Group, Inc. d/b/a Murray Air"
+2127,20406,NetJets Large Aircraft Company L.L.C.
+2128,20406,NetJets Large Aircraft Company L.L.C.
+2129,20406,NetJets Large Aircraft Company L.L.C.
+2130,20406,BNJ Charter Company
+2131,20406,BNJ Charter Company
+2132,20406,BNJ Charter Company
+2133,20407,"Regions Air, Inc."
+2134,20407,Corporate Airlines
+2135,20407,Corporate Airlines
+2136,20408,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2137,20408,Tatonduk Outfitters Limited d/b/a Tatonduk Flying Service
+2138,20408,Tatonduk Outfitters Limited d/b/a Tatonduk Flying Service
+2139,20408,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2140,20408,Tatonduk Outfitters Limited d/b/a Tatonduk Flying Service
+2141,20409,JetBlue Airways
+2142,20409,JetBlue Airways
+2143,20409,JetBlue Airways
+2144,20409,JetBlue Airways
+2145,20410,Celtic Tech Jet Ltd.
+2146,20411,Arizona Express
+2147,20411,Arizona Express
+2148,20412,Nations Air Express Inc.
+2149,20413,Skagway Air Service
+2150,20413,Skagway Air Service
+2151,20413,Skagway Air Service
+2152,20413,Skagway Air Service
+2153,20414,Executive Air Charter
+2154,20414,Executive Airlines
+2155,20414,Executive Airlines
+2156,20414,Executive Airlines
+2157,20414,Executive Airlines
+2158,20415,North American Airlines
+2159,20415,North American Airlines
+2160,20415,North American Airlines
+2161,20415,North American Airlines
+2162,20415,North American Airlines
+2163,20415,North American Airlines
+2164,20416,Spirit Air Lines
+2165,20416,Spirit Air Lines
+2166,20416,Spirit Air Lines
+2167,20416,Spirit Air Lines
+2168,20416,Spirit Air Lines
+2169,20417,Comair Inc.
+2170,20417,Comair Inc.
+2171,20417,Comair Inc.
+2172,20417,Comair Inc.
+2173,20417,Comair Inc.
+2174,20418,Chautauqua Airlines Inc.
+2175,20418,Chautauqua Airlines Inc.
+2176,20418,Chautauqua Airlines Inc.
+2177,20418,Chautauqua Airlines Inc.
+2178,20418,Chautauqua Airlines Inc.
+2179,20419,Aerolineas Nicaraguenses
+2180,20420,UltrAir
+2181,20420,UltrAir
+2182,20420,UltrAir
+2183,20420,Airline Of The Americas
+2184,20420,Airline Of The Americas
+2185,20420,Airline Of The Americas
+2186,20421,Sky King Inc.
+2187,20421,Sky King Inc.
+2188,20421,Sky King Inc.
+2189,20421,Sky King Inc.
+2190,20421,Sky King Inc.
+2191,20421,Sky King Inc.
+2192,20421,Sky King Inc.
+2193,20421,Sky King Inc.
+2194,20421,Sky King Inc.
+2195,20421,Sky King Inc.
+2196,20421,Sky King Inc.
+2197,20422,Sun Country Airlines d/b/a MN Airlines
+2198,20422,Sun Country Airlines d/b/a MN Airlines
+2199,20422,Sun Country Airlines
+2200,20422,Sun Country Airlines
+2201,20422,Sun Country Airlines
+2202,20422,Sun Country Airlines
+2203,20422,Sun Country Airlines
+2204,20422,Sun Country Airlines
+2205,20422,Sun Country Airlines
+2206,20422,Sun Country Airlines
+2207,20423,USA 3000 Airlines
+2208,20423,USA 3000 Airlines
+2209,20423,USA 3000 Airlines
+2210,20423,USA 3000 Airlines
+2211,20423,USA 3000 Airlines
+2212,20423,USA 3000 Airlines
+2213,20424,Eagle Canyon Airlines d/b/a Scenic Airlines
+2214,20424,Eagle Canyon Airlines
+2215,20424,Scenic Airlines Inc. d/b/a Scenic Airlines
+2216,20424,Eagle Canyon Airlines d/b/a Scenic Airlines
+2217,20424,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines"
+2218,20425,Viscount Air Service Inc.
+2219,20425,Viscount Air Service Inc.
+2220,20425,Viscount Air Service Inc.
+2221,20426,Vieques Air Link Inc.
+2222,20426,Vieques Air Link Inc.
+2223,20427,Piedmont Airlines
+2224,20427,Piedmont Airlines
+2225,20427,Piedmont Airlines
+2226,20427,Piedmont Airlines
+2227,20428,Volga-Dnepr Airlines
+2228,20428,Volga-Dnepr Airlines
+2229,20429,Aero Laguna S.A. De C.V.
+2230,20430,Aerodan S.A. De C.V.
+2231,20431,Aero Rentas De Coahuila S.A. De C.V.
+2232,20432,Aerotaxis De Aguascalientes S.A. De C.V.
+2233,20433,Servicios Aeronauticos Z S.A. De C.V.
+2234,20434,Taxirey S.A. De C.V.
+2235,20435,Frontier Airlines Inc.
+2236,20436,Frontier Airlines Inc.
+2237,20436,Frontier Airlines Inc.
+2238,20436,Frontier Airlines Inc.
+2239,20436,Frontier Airlines Inc.
+2240,20436,Frontier Airlines Inc.
+2241,20436,Frontier Airlines Inc.
+2242,20437,AirTran Airways Corporation
+2243,20437,AirTran Airways Corporation
+2244,20437,AirTran Airways Corporation
+2245,20437,AirTran Airways Corporation
+2246,20437,AirTran Airways Corporation
+2247,20438,Air Club International
+2248,20439,Homer Air
+2249,20440,Lineas Aereas Del Caribe
+2250,20441,Legend Airlines
+2251,20442,Varig Logistica S/A
+2252,20443,Island Air Service
+2253,20443,Island Air Service
+2254,20443,Island Air Service
+2255,20443,Island Air Service
+2256,20443,Island Air Service
+2257,20444,Excel Airways
+2258,20445,"Commutair Aka Champlain Enterprises, Inc."
+2259,20445,"Commutair Aka Champlain Enterprises, Inc."
+2260,20445,"Commutair Aka Champlain Enterprises, Inc."
+2261,20446,Aerotransportes Mas De Crga
+2262,20446,Aerotransportes Mas De Crga
+2263,20446,Aerotransportes Mas De Crga
+2264,20447,USA Jet Airlines Inc.
+2265,20447,USA Jet Airlines Inc.
+2266,20447,USA Jet Airlines Inc.
+2267,20447,USA Jet Airlines Inc.
+2268,20447,USA Jet Airlines Inc.
+2269,20447,USA Jet Airlines Inc.
+2270,20447,USA Jet Airlines Inc.
+2271,20447,USA Jet Airlines Inc.
+2272,20447,USA Jet Airlines Inc.
+2273,20447,USA Jet Airlines Inc.
+2274,20447,USA Jet Airlines Inc.
+2275,20447,USA Jet Airlines Inc.
+2276,20447,USA Jet Airlines Inc.
+2277,20447,USA Jet Airlines Inc.
+2278,20448,Shuttle America Corp.
+2279,20448,Shuttle America Corp.
+2280,20448,Shuttle America Corp.
+2281,20448,Shuttle America Corp.
+2282,20449,Aero-Services-Corporate
+2283,20450,Omega Air Holdings d/b/a Focus Air
+2284,20450,Omega Air Holdings d/b/a Focus Air
+2285,20450,Omega Air Holdings d/b/a Focus Air
+2286,20450,Omega Air Holdings d/b/a Focus Air
+2287,20450,Omega Air Holdings d/b/a Focus Air
+2288,20450,Omega Air Holdings d/b/a Focus Air
+2289,20451,Transmile Air Service
+2290,20452,Republic Airlines
+2291,20452,Republic Airlines
+2292,20452,Republic Airlines
+2293,20452,Republic Airlines
+2294,20452,Republic Airlines
+2295,20452,Republic Airlines
+2296,20453,Airborne Express Inc.
+2297,20453,Airborne Express Inc.
+2298,20453,ABX Air Inc
+2299,20453,ABX Air Inc
+2300,20453,ABX Air Inc
+2301,20453,ABX Air Inc
+2302,20453,ABX Air Inc
+2303,20453,ABX Air Inc
+2304,20453,Airborne Express Inc.
+2305,20454,"EOS Airlines, Inc."
+2306,20454,"EOS Airlines, Inc."
+2307,20455,Grant Aviation
+2308,20455,Grant Aviation
+2309,20455,Grant Aviation
+2310,20455,Grant Aviation
+2311,20455,Grant Aviation
+2312,20456,Air Foyle Limited
+2313,20500,GoJet Airlines LLC d/b/a United Express
+2314,20500,GoJet Airlines LLC d/b/a United Express
+2315,20501,Morningstar Air Express
+2316,20502,MAXjet
+2317,20502,MAXjet
+2318,20502,MAXjet
+2319,20502,MAXjet
+2320,20502,MAXjet
+2321,20502,MAXjet
+2322,21007,"Abaco Air, Ltd."
+2323,21008,Challenge Air Luftverkehrs GmbH
+2324,21022,"PM Air, LLC"
+2325,21022,"PM Air, LLC"
+2326,21029,Harris Air Services
+2327,21035,Tyrolean Jet Service
+2328,21036,"Executive Airlines, SL"
+2329,21040,Titan Airways
+2330,21059,TUI Airlines Nederland B.V.
+2331,21061,Aerounion Aerotransporte de Carga Union SA de CV
+2332,21061,Aerounion ( Aerotransporte de Carga Union SA de CV
+2333,21069,"Cargo 360, Inc."
+2334,21069,"Cargo 360, Inc."
+2335,21070,Globespan Airways Limited d/b/a Flyglobespan
+2336,21074,Arrow Panama
+2337,21080,Tradewind Aviation
+2338,21084,LAN Argentina
+2339,21089,US Helicopter Corporation
+2340,21094,"Comlux Aviation, AG"
+2341,21099,"NetJets Transportes Aereos, S.A."
+2342,21107,Etihad Airways
+2343,21111,"Pacific Airways, Inc."
+2344,21116,Flyjet Limited d/b/a Silverjet
+2345,21117,"TravelspanGT, Inc. S.A."
+2346,21118,Zeal 320
+2347,21121,Elysair d/b/a L'Avion
+2348,21126,ANA & JP Express Co. Ltd.
+2349,21131,VistaJet Luftfahrtunternehmen GmbH
+2350,21132,Master Top Linhas Aereas Ltd.
+2351,21134,JetClub AG
+2352,21136,Flair Airlines Ltd.
+2353,21142,"Avior Airlines, C.A."
+2354,21147,Flying Service N.V.
+2355,21148,"Master Top Linhas Aereas, Ltda."
+2356,21158,"Global Jet Austria, GmbH"
+2357,21160,"Global Jet Luxembourg, Sa"
+2358,21161,"Swift Air, LLC"
+2359,21161,"Swift Air, LLC"
+2360,21161,"Swift Air, LLC"
+2361,21167,Compass Airlines
+2362,21167,Compass Airlines
+2363,21167,Compass Airlines
+2364,21167,Compass Airlines
+2365,21171,Virgin America
+2366,21171,Virgin America
+2367,21171,Virgin America
+2368,21171,Virgin America
+2369,21171,Virgin America
+2370,21177,"Skybus Airlines, Inc."
+2371,21181,"Skyservice Airlines, Inc."
+2372,21186,DCA
+2373,21192,Eurofly S.p.A
+2374,21196,ACM AIR CHARTER GmbH
+2375,21201,Jade Cargo International
+2376,21202,CAT Aviation
+2377,21205,"Inter Island Airways, d/b/a Inter Island Air"
+2378,21212,Polar Airlines de Mexico d/b/a Nova Air
+2379,21217,Lynx Aviation d/b/a Frontier Airlines
+2380,21217,Lynx Aviation d/b/a Frontier Airlines
+2381,21217,Lynx Aviation d/b/a Frontier Airlines
+2382,21221,Vladivostok Air
+2383,21226,"Porter Airlines, Inc."
+2384,21231,Sunwing Airlines Inc.
+2385,21236,Vision Airlines
+2386,21236,Vision Airlines
+2387,21236,Vision Airlines
+2388,21236,Vision Airlines
+2389,21236,Vision Airlines
+2390,21236,Vision Airlines
+2391,21242,"Mokulele Flight Services, Inc."
+2392,21242,"Mokulele Flight Services, Inc."
+2393,21247,Star Air A/S
+2394,21248,"Metropix UK, LLP."
+2395,21253,"Multi-Aero, Inc. d/b/a Air Choice One"
+2396,21258,"Santa Barbara Airlines, C.A"
+2397,21261,Jet Airways (India) Limited
+2398,21262,Qatar Airways (Q.C.S.C)
+2399,21266,Yangtze River Express Airlines Company
+2400,21271,Hainan Airlines Company Limited
+2401,21281,JetAlliance Flugbetriebs d/b/a JAF Airservice
+2402,21287,Open Skies
+2403,21294,Aeromexico Travel
+2404,21302,Pan American World Airways Dominicana
+2405,21306,TAG Aviation S.A.
+2406,21308,TAG Aviation (UK) Ltd.
+2407,21309,TAG Aviation Espana S.L.
+2408,21312,"Air Greco, Inc., d/b/a Wings Air"
+2409,21317,"Corporatejets, XXI"
+2410,21323,Aerosur
+2411,21326,Great Wall Airlines Company Limited
+2412,21331,"Comlux Malta, Ltd."
+2413,21342,"Aeroenlaces Nacionales, S.A. de C.V. d/b/a VivaAerobus"
+2414,21346,Ocean Sky (UK) Limited
+2415,21351,Concesionaria Vuela Compania De Aviacion SA de CV (Volaris)
+2416,21352,Avjet Corporation
+2417,21356,Jetstar Airways Pty Limited
+2418,21361,Air Berlin PLC and CO
+2419,21366,XL Airways France
+2420,21373,Aeroservices Executive
+2421,21376,Lan Colombia
+2422,21382,Comlux Malta Ltd.
+2423,21386,Air Excursions LLC
+2424,21386,Air Excursions LLC
+2425,21395,Virgin Blue International Airlines t/a V Australia
+2426,21402,"Prescott Support Company, Inc."
+2427,21402,"Prescott Support Company, Inc."
+2428,21402,"Prescott Support Company, Inc."
+2429,21406,Acropolis Aviation Ltd.
+2430,21407,Swiss Air Ambulance
+2431,21411,Insel Air International B V
+2432,21411,Insel Air International B V
+2433,21416,Jin Air Co Ltd.
+2434,21421,Jet Aviation Business Jets AG
+2435,21423,Unijet
+2436,21427,AeroLogic GmbH
+2437,21433,Meridiana S.p.A
+2438,21434,Corsair
+2439,21434,Corsair International
+2440,21437,Chartright Air Inc.
+2441,21438,Hapag-Lloyd Executive GmbH
+2442,21438,Hapag-Lloyd Express GmbH
+2443,21439,London Air Services Limited
+2444,21440,Air Alsie A/S
+2445,21447,Albinati Aeronautics SA
+2446,21452,Skymark Airlines Inc.
+2447,21463,Aerovias de Intergracian Regional
+2448,21467,Arik Air International
+2449,21477,"Charter Air Transport, Inc."
+2450,21477,Via Airlines d/b/a Charter Air Transport
+2451,21487,AirBridgeCargo Airlines Limited
+2452,21492,"Dynamic Airways, LLC"
+2453,21492,"Dynamic Airways, LLC"
+2454,21492,"Dynamic Airways, LLC"
+2455,21492,"Dynamic Airways, LLC"
+2456,21492,"Dynamic Airways, LLC"
+2457,21503,Island Airlines LLC
+2458,21507,Aerolineas Galapagos S A Aerogal
+2459,21512,"Travel Service, a.s."
+2460,21518,"KaiserAir, Inc."
+2461,21522,Alsek Air
+2462,21528,Transportes Aeromar S.A de C.V
+2463,21532,Air Finland Ltd.
+2464,21548,International Jet Management GmbH
+2465,21549,Jet link AG
+2466,21552,TUI Airlines Belgium N.V. d/b/a Jetairfly
+2467,21557,Sichuan Airlines Co Ltd.
+2468,21562,Exec Direct Aviation Services Limited
+2469,21567,Brussels Airlines N.V.
+2470,21568,VistaJet Limited
+2471,21569,Lauda Motion GmbH
+2472,21569,Amira Air GmbH
+2473,21570,Star Marianas Air Inc.
+2474,21573,Bertelsmann Aviation GmbH
+2475,21574,Air Company Yakutia
+2476,21577,Rhoades Aviation dba Transair
+2477,21577,Rhoades Aviation dba Transair
+2478,21577,Rhoades Aviation dba Transair
+2479,21578,ABC Aerolineas SA de CV dba Interjet
+2480,21579,Norwegian Air Shuttle ASA
+2481,21580,Cargolux Italia SpA
+2482,21582,"Reeve Air Alaska, LLC"
+2483,21587,Tame Linea Aerea del Ecuador Tme EP
+2484,21589,Twin Cities Air Service LLC
+2485,21590,Gainjet Aviation SA
+2486,21592,Jeju Air Co Ltd.
+2487,21594,Scott Air LLC dba Island Air Express
+2488,21594,Scott Air LLC dba Island Air Express
+2489,21596,Ultimate JetCharters LLC dba Ultimate Air Shuttle
+2490,21597,JSC The 224th Flight Unit State Airlines
+2491,21598,WOW Air ehf
+2492,21599,Boutique Air
+2493,21601,Dassault Falcon Service
+2494,21605,VRG Linhas Aereas S A
+2495,21607,Fly Jamaica Airways Limited
+2496,21608,Ukraine International Airlines
+2497,21610,Air Canada rouge LP
+2498,21611,Sky Regional Airlines Inc.
+2499,21613,Makani Kai Air Charters
+2500,21613,Makani Kai Air Charters
+2501,21614,City Wings Inc dba Seaflight
+2502,21615,"Air Charter, Inc d/b/a Air Flamenco"
+2503,21618,Sun Air Express LLC dba Sun Air International
+2504,21618,Sun Air Express LLC dba Sun Air International
+2505,21623,SkyBahamas Airlines Ltd.
+2506,21624,Jet2.com
+2507,21626,Dreamjet SAS Dba La Compagnie
+2508,21629,Western Global
+2509,21629,Western Global
+2510,21630,Comlux Aruba NV
+2511,21631,Orange Air
+2512,21631,Orange Air
+2513,21631,Orange Air
+2514,21634,Aloha Air Cargo
+2515,21635,Corporate Flight Management Inc.d/b/a Crystal Luxury Air
+2516,21635,Corporate Flight Management Inc.
+2517,21635,CFM Inc d/b/a Contour Airlines
+2518,21636,Gem Air LLC
+2519,21638,Azul Linhas Aereas Brazileiras S A
+2520,21645,Songbird Airways Inc.
+2521,21645,Songbird Airways Inc.
+2522,21645,Sky King Inc.
+2523,21645,Sky King Inc.
+2524,21646,Blue Jet SP Z o o
+2525,21648,SkyGreece Airlines S A
+2526,21649,Mjet GmbH
+2527,21650,Eastern Airlines Group Inc.
+2528,21650,Eastern Airlines Group Inc.
+2529,21651,Albinati aviation Limited
+2530,21652,"Jet Aviation Flight Services, Inc."
+2531,21652,"Jet Aviation Flight Services, Inc."
+2532,21653,Menagerie Enterprises Inc d/b/a Monarch Air
+2533,21655,Erickson Helicopters
+2534,21656,ABS JETS A.S
+2535,21657,Air Asia X Berhad dba Airasia X
+2536,21659,Air Busan
+2537,21660,Air Medical Ltd.
+2538,21667,Oceanair Linhas Aereas S A
+2539,21668,Altius Aviation LLC
+2540,21669,Aviation Partners of Boynton Beach LLC d/b/a Hummingbird Air
+2541,21670,Fast Colombia SAS d/b/a Viva Colombia
+2542,21672,Inselair Aruba NV
+2543,21673,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit"
+2544,21674,Compagnie Aerienne Inter Regionale Express dba Air Antilles Express & Air Guyane
+2545,21677,Cebu Air Inc d/b/a Cebu Pacific Air
+2546,21692,Azerbaijan Airlines CJSC
+2547,21693,Cavok Air LLC
+2548,21694,Silk Way West Airlines
+2549,21697,Orenburg Airlines
+2550,21702,WestJet Encore Ltd.
+2551,21707,Hong Kong Airlines Limited
+2552,21712,Elite Airways LLC
+2553,21712,Elite Airways LLC
+2554,21712,Elite Airways LLC
+2555,21718,Delux Public Charter LLC
+2556,21728,Eurowings GmbH
+2557,21733,Abelag Aviation AG
+2558,21735,Longtail Aviation Ltd.
+2559,21738,Air Serbia
+2560,21743,Tropic Ocean Airways LLC
+2561,21745,LIMA NY Corp d/b/a Fly The Whale d/b/a Tailwind
+2562,21749,Talofa Airways Limited
+2563,21754,21 Air LLC
+2564,21754,21 Air LLC
+2565,21754,21 Air LLC
+2566,21760,Luxaviation S A
+2567,21764,Trans Northern Airways d/b/a Air Unlimited Charter Services
+2568,21770,"Xiamen Airlines Co., Ltd."
+2569,21774,"Air Philippines Corp d/b/a Airphil Express, Philippines Airlines"
+2570,21780,Cargologicair Limited
+2571,21781,Eastar Jet Co Ltd.
+2572,21785,Hong Kong Express Airways Limited
+2573,21809,"Maine Aviation Aircraft Charter, LLC"
