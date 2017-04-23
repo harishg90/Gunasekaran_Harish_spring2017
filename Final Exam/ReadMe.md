@@ -83,7 +83,7 @@ Step 4: The correlation between weather delay and data
 
 ### 1.  Number of flights having delay in Arrival  based on City
 
-The below plot gives the hourly count for each day based on city
+The below plot gives the number of times flight arrival have been delayed for each City
 
 ![nba](https://cloud.githubusercontent.com/assets/22721213/25311420/602a08ca-27ce-11e7-8333-3b3b39f58921.png)
 
