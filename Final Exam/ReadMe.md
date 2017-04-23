@@ -85,8 +85,34 @@ Step 4: The correlation between weather delay and data
 
 The below plot gives the hourly count for each day based on city
 
+![nba](https://cloud.githubusercontent.com/assets/22721213/25311420/602a08ca-27ce-11e7-8333-3b3b39f58921.png)
 
 ### 2. Revenue correlation with total distance covered
+
+The graph indicates the distance covered as a bar, net income for each carrier as a line
+
+<img width="569" alt="distance_income" src="https://cloud.githubusercontent.com/assets/22721213/25311462/a9674f7e-27cf-11e7-81c4-aedfe416562c.png">
+
+### 3. Count of flights take off on hourly basis for each day of the week
+
+The graph takes input as City and Day of the week and shows the number of flights for each hour
+
+<img width="734" alt="hourlyflights_from_city" src="https://cloud.githubusercontent.com/assets/22721213/25311463/aea15dae-27cf-11e7-9611-93ec584cb471.png">
+
+### 4. Revenue correlation with count of passengers
+
+The bar graph takes input as carrier name and gives the number of passengers and net income
+
+![analysis4](https://cloud.githubusercontent.com/assets/22721213/25311465/b4f70a00-27cf-11e7-9fee-ce0806162fb5.PNG)
+
+### 5. Correlation between weather delay and weather data
+
+This plot indicates the total number of minutes delayed due to weather condition of SNOW and minutes delayed due to WIND.
+
+![snow_wnd](https://cloud.githubusercontent.com/assets/22721213/25311468/c0b88206-27cf-11e7-995b-e3243dc60c7d.png)
+
+
+![snow_minutes](https://cloud.githubusercontent.com/assets/22721213/25311467/be15ca22-27cf-11e7-87d4-70a832383163.png)
 
 
 
