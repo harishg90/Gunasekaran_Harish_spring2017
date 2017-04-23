@@ -48,6 +48,45 @@ Step 4: From Finance data, get the net income for each carrier in third quarter.
 
 Step 5: Calculate the distance covered and net income for each carrier
 
-### 3: 
+### 3: Count of flights take off on hourly basis for each day of the week 
+
+Step 1: Append the total number of flights from September 01, 2016 to December 31, 2016
+
+Step 2: Merge the entire data into a DataFrame 
+
+Step 3: Take the hour value alone from the Departure time column value.
+
+Step 4: Convert numeric value of day into name of day.
+
+Step 5: For each City, take the count of flight for each hour and day of the week
+
+### 4: Revenue correlation with count of passengers
+
+Step 1: From passenger data, get the total number of passengers for each carrier
+
+Step 2: From Finance data, get the net income for each carrier
+
+Step 3: Calculate the profit/loss based on passenger count
+
+### 5: Correlation between weather delay and weather data
+
+Step 1: The daily flight data was taken for January 2016
+
+Step 2: The number of flights originating from Boston is filtered
+
+Step 3: The weather data for the month of January was filtered from Weather data
+
+Step 4: The correlation between weather delay and data
+
+
+## Data Analysis
+
+### 1.  Number of flights having delay in Arrival  based on City
+
+The below plot gives the hourly count for each day based on city
+
+
+### 2. Revenue correlation with total distance covered
+
 
 
