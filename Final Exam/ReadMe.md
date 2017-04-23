@@ -109,6 +109,13 @@ The bar graph takes input as carrier name and gives the number of passengers and
 
 This plot indicates the total number of minutes delayed due to weather condition of SNOW and minutes delayed due to WIND.
 
+conditions|WEATHER_DELAY
+---------|---------------
+0 - 10|0.488734835
+10 - 20|
+20 - 30|16.22897196
+
+
 ![snow_wnd](https://cloud.githubusercontent.com/assets/22721213/25311468/c0b88206-27cf-11e7-995b-e3243dc60c7d.png)
 
 
